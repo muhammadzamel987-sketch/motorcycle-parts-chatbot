@@ -1,0 +1,2201 @@
+Part_ID,Part_Name,Category,Model_Compatibility,Price_PKR,Stock_Quantity
+P0001,Air Cleaner Filter,Rubber/Misc,70cc,160,141
+P0002,Drum Rubber,Rubber/Misc,125cc,220,74
+P0003,Disc Pad,Braking,125cc,450,61
+P0004,Piston Kit,Engine,125cc,1850,61
+P0005,Mudguard Front,Body/Frame,100cc,750,247
+P0006,Cylinder Block,Engine,100cc,3800,294
+P0007,Air Cleaner Filter,Rubber/Misc,125cc,320,185
+P0008,Disc Pad,Braking,100cc,320,281
+P0009,Drive Chain,Drivetrain,100cc,600,190
+P0010,Mudguard Front,Body/Frame,125cc,1150,341
+P0011,Side Cover,Body/Frame,100cc,950,371
+P0012,Cylinder Block,Engine,125cc,4800,343
+P0013,Indicator Relay,Electrical,70cc,90,132
+P0014,Indicator Relay,Electrical,125cc,150,122
+P0015,Air Cleaner Filter,Rubber/Misc,125cc,320,312
+P0016,Drive Chain,Drivetrain,100cc,600,479
+P0017,Spark Plug,Electrical,125cc,385,30
+P0018,Brake Cable,Braking,100cc,180,431
+P0019,Brake Cable,Braking,100cc,180,212
+P0020,Rear Axle,Drivetrain,70cc,220,375
+P0021,Drum Rubber,Rubber/Misc,70cc,120,251
+P0022,Headlight Assembly,Electrical,100cc,750,388
+P0023,Oil Pump,Engine,70cc,380,451
+P0024,CDI Unit,Electrical,70cc,320,55
+P0025,Piston Kit,Engine,100cc,1350,463
+P0026,Mudguard Front,Body/Frame,70cc,550,321
+P0027,Brake Lever,Braking,100cc,140,149
+P0028,Cylinder Block,Engine,100cc,3800,186
+P0029,Fuel Tank,Body/Frame,100cc,3600,148
+P0030,Mudguard Front,Body/Frame,70cc,550,425
+P0031,Footrest Rubber,Rubber/Misc,70cc,120,292
+P0032,Headlight Assembly,Electrical,100cc,750,1
+P0033,Cylinder Block,Engine,125cc,4800,373
+P0034,Brake Cable,Braking,125cc,220,34
+P0035,Brake Shoe Set,Braking,70cc,280,426
+P0036,Handle Bar,Body/Frame,125cc,850,399
+P0037,Handle Grip,Rubber/Misc,100cc,150,93
+P0038,Cylinder Block,Engine,125cc,4800,363
+P0039,Footrest Rubber,Rubber/Misc,125cc,160,438
+P0040,Oil Pump,Engine,100cc,480,188
+P0041,Mudguard Rear,Body/Frame,100cc,780,219
+P0042,Disc Pad,Braking,70cc,250,156
+P0043,Brake Shoe Set,Braking,100cc,380,184
+P0044,Rear Axle,Drivetrain,70cc,220,32
+P0045,Clutch Plate Set,Engine,100cc,850,436
+P0046,Ignition Switch,Electrical,70cc,450,213
+P0047,Mudguard Front,Body/Frame,125cc,1150,447
+P0048,Ignition Switch,Electrical,100cc,600,283
+P0049,Indicator Relay,Electrical,70cc,90,321
+P0050,Gasket Kit,Engine,70cc,180,368
+P0051,Handle Grip,Rubber/Misc,125cc,180,346
+P0052,CDI Unit,Electrical,100cc,450,283
+P0053,Oil Pump,Engine,125cc,680,213
+P0054,Disc Pad,Braking,125cc,450,482
+P0055,Disc Pad,Braking,70cc,250,2
+P0056,Headlight Assembly,Electrical,70cc,550,443
+P0057,Footrest Rubber,Rubber/Misc,70cc,120,198
+P0058,Footrest Rubber,Rubber/Misc,100cc,140,273
+P0059,CDI Unit,Electrical,70cc,320,196
+P0060,Side Cover,Body/Frame,70cc,750,331
+P0061,Drum Rubber,Rubber/Misc,70cc,120,225
+P0062,Mudguard Front,Body/Frame,70cc,550,209
+P0063,Ignition Switch,Electrical,125cc,850,383
+P0064,Headlight Assembly,Electrical,70cc,550,301
+P0065,Footrest Rubber,Rubber/Misc,100cc,140,2
+P0066,Fuel Tank,Body/Frame,125cc,4800,37
+P0067,CDI Unit,Electrical,125cc,650,230
+P0068,CDI Unit,Electrical,70cc,320,307
+P0069,Air Cleaner Filter,Rubber/Misc,100cc,220,459
+P0070,Mudguard Rear,Body/Frame,70cc,600,246
+P0071,Indicator Relay,Electrical,100cc,120,296
+P0072,Footrest Rubber,Rubber/Misc,125cc,160,443
+P0073,Mudguard Front,Body/Frame,70cc,550,240
+P0074,Headlight Assembly,Electrical,70cc,550,78
+P0075,Brake Lever,Braking,70cc,120,4
+P0076,Brake Shoe Set,Braking,100cc,380,156
+P0077,Clutch Plate Set,Engine,70cc,550,292
+P0078,Footrest Rubber,Rubber/Misc,125cc,160,63
+P0079,Clutch Plate Set,Engine,100cc,850,15
+P0080,Cylinder Block,Engine,125cc,4800,249
+P0081,Mudguard Rear,Body/Frame,100cc,780,358
+P0082,CDI Unit,Electrical,100cc,450,381
+P0083,Drum Rubber,Rubber/Misc,100cc,160,353
+P0084,Rear Axle,Drivetrain,125cc,380,208
+P0085,Oil Pump,Engine,125cc,680,97
+P0086,CDI Unit,Electrical,70cc,320,245
+P0087,Gasket Kit,Engine,70cc,180,228
+P0088,Fuel Tank,Body/Frame,125cc,4800,393
+P0089,Footrest Rubber,Rubber/Misc,100cc,140,55
+P0090,Handle Bar,Body/Frame,70cc,500,442
+P0091,Drive Chain,Drivetrain,125cc,850,385
+P0092,Cylinder Block,Engine,125cc,4800,199
+P0093,Ignition Switch,Electrical,70cc,450,400
+P0094,Piston Kit,Engine,125cc,1850,403
+P0095,Side Cover,Body/Frame,125cc,1350,65
+P0096,Air Cleaner Filter,Rubber/Misc,100cc,220,140
+P0097,Mudguard Rear,Body/Frame,100cc,780,21
+P0098,Drive Chain,Drivetrain,100cc,600,340
+P0099,Ignition Switch,Electrical,125cc,850,246
+P0100,Air Cleaner Filter,Rubber/Misc,100cc,220,447
+P0101,Side Cover,Body/Frame,125cc,1350,397
+P0102,Air Cleaner Filter,Rubber/Misc,70cc,160,405
+P0103,Rear Axle,Drivetrain,70cc,220,231
+P0104,Brake Lever,Braking,125cc,180,126
+P0105,Spark Plug,Electrical,125cc,385,153
+P0106,Indicator Relay,Electrical,125cc,150,278
+P0107,Piston Kit,Engine,100cc,1350,452
+P0108,Sprocket Hub,Drivetrain,70cc,480,293
+P0109,Rear Axle,Drivetrain,125cc,380,246
+P0110,CDI Unit,Electrical,100cc,450,58
+P0111,Rear Axle,Drivetrain,125cc,380,373
+P0112,Air Cleaner Filter,Rubber/Misc,125cc,320,119
+P0113,Drive Chain,Drivetrain,100cc,600,130
+P0114,Cylinder Block,Engine,125cc,4800,381
+P0115,Mudguard Front,Body/Frame,125cc,1150,326
+P0116,Headlight Assembly,Electrical,70cc,550,152
+P0117,Disc Pad,Braking,125cc,450,407
+P0118,CDI Unit,Electrical,100cc,450,401
+P0119,CDI Unit,Electrical,125cc,650,365
+P0120,Drum Rubber,Rubber/Misc,70cc,120,94
+P0121,Footrest Rubber,Rubber/Misc,125cc,160,136
+P0122,Gasket Kit,Engine,100cc,260,346
+P0123,Air Cleaner Filter,Rubber/Misc,70cc,160,228
+P0124,Footrest Rubber,Rubber/Misc,70cc,120,64
+P0125,Footrest Rubber,Rubber/Misc,70cc,120,78
+P0126,Drive Chain,Drivetrain,125cc,850,425
+P0127,Oil Pump,Engine,125cc,680,213
+P0128,Piston Kit,Engine,70cc,950,358
+P0129,Rear Axle,Drivetrain,70cc,220,111
+P0130,Ignition Switch,Electrical,70cc,450,25
+P0131,Brake Cable,Braking,125cc,220,443
+P0132,Sprocket Hub,Drivetrain,125cc,850,103
+P0133,Rear Axle,Drivetrain,125cc,380,456
+P0134,Spark Plug,Electrical,100cc,350,234
+P0135,Side Cover,Body/Frame,125cc,1350,103
+P0136,Air Cleaner Filter,Rubber/Misc,70cc,160,484
+P0137,Gasket Kit,Engine,70cc,180,483
+P0138,Footrest Rubber,Rubber/Misc,125cc,160,0
+P0139,Spark Plug,Electrical,100cc,350,109
+P0140,Ignition Switch,Electrical,125cc,850,167
+P0141,Indicator Relay,Electrical,100cc,120,74
+P0142,Fuel Tank,Body/Frame,125cc,4800,251
+P0143,Brake Shoe Set,Braking,100cc,380,461
+P0144,Headlight Assembly,Electrical,100cc,750,443
+P0145,Chain Sprocket Kit,Drivetrain,100cc,2150,89
+P0146,Clutch Plate Set,Engine,100cc,850,494
+P0147,Mudguard Front,Body/Frame,100cc,750,343
+P0148,Clutch Plate Set,Engine,125cc,2200,95
+P0149,Ignition Switch,Electrical,70cc,450,83
+P0150,Spark Plug,Electrical,70cc,350,296
+P0151,Cylinder Block,Engine,125cc,4800,120
+P0152,Brake Shoe Set,Braking,100cc,380,74
+P0153,Spark Plug,Electrical,125cc,385,252
+P0154,Ignition Switch,Electrical,70cc,450,499
+P0155,Brake Cable,Braking,100cc,180,251
+P0156,Ignition Switch,Electrical,70cc,450,159
+P0157,Sprocket Hub,Drivetrain,100cc,620,156
+P0158,Drum Rubber,Rubber/Misc,100cc,160,239
+P0159,Ignition Switch,Electrical,100cc,600,474
+P0160,Disc Pad,Braking,100cc,320,481
+P0161,Mudguard Rear,Body/Frame,125cc,1100,457
+P0162,Disc Pad,Braking,125cc,450,155
+P0163,Drum Rubber,Rubber/Misc,125cc,220,205
+P0164,CDI Unit,Electrical,100cc,450,211
+P0165,CDI Unit,Electrical,100cc,450,305
+P0166,Drive Chain,Drivetrain,125cc,850,148
+P0167,Drum Rubber,Rubber/Misc,100cc,160,187
+P0168,Footrest Rubber,Rubber/Misc,100cc,140,296
+P0169,Clutch Plate Set,Engine,100cc,850,357
+P0170,Side Cover,Body/Frame,100cc,950,307
+P0171,Rear Axle,Drivetrain,100cc,280,73
+P0172,Piston Kit,Engine,125cc,1850,314
+P0173,Clutch Plate Set,Engine,125cc,2200,9
+P0174,Spark Plug,Electrical,125cc,385,218
+P0175,Drive Chain,Drivetrain,70cc,450,17
+P0176,Ignition Switch,Electrical,125cc,850,430
+P0177,Sprocket Hub,Drivetrain,125cc,850,366
+P0178,Mudguard Front,Body/Frame,100cc,750,497
+P0179,Side Cover,Body/Frame,70cc,750,355
+P0180,Air Cleaner Filter,Rubber/Misc,125cc,320,115
+P0181,Rear Axle,Drivetrain,125cc,380,160
+P0182,Gasket Kit,Engine,125cc,380,456
+P0183,Gasket Kit,Engine,100cc,260,224
+P0184,Footrest Rubber,Rubber/Misc,125cc,160,275
+P0185,Footrest Rubber,Rubber/Misc,100cc,140,248
+P0186,Drive Chain,Drivetrain,70cc,450,445
+P0187,Side Cover,Body/Frame,100cc,950,145
+P0188,Disc Pad,Braking,70cc,250,169
+P0189,Drum Rubber,Rubber/Misc,125cc,220,217
+P0190,Ignition Switch,Electrical,125cc,850,262
+P0191,Handle Grip,Rubber/Misc,70cc,120,94
+P0192,Brake Cable,Braking,70cc,140,381
+P0193,Indicator Relay,Electrical,125cc,150,267
+P0194,Brake Lever,Braking,100cc,140,22
+P0195,Headlight Assembly,Electrical,125cc,1250,365
+P0196,Footrest Rubber,Rubber/Misc,100cc,140,496
+P0197,Drive Chain,Drivetrain,125cc,850,415
+P0198,Handle Bar,Body/Frame,100cc,650,322
+P0199,Footrest Rubber,Rubber/Misc,125cc,160,37
+P0200,Disc Pad,Braking,125cc,450,114
+P0201,Side Cover,Body/Frame,125cc,1350,429
+P0202,Chain Sprocket Kit,Drivetrain,70cc,1650,159
+P0203,Side Cover,Body/Frame,125cc,1350,316
+P0204,CDI Unit,Electrical,125cc,650,230
+P0205,Chain Sprocket Kit,Drivetrain,70cc,1650,107
+P0206,Clutch Plate Set,Engine,100cc,850,34
+P0207,Handle Grip,Rubber/Misc,70cc,120,248
+P0208,Fuel Tank,Body/Frame,125cc,4800,258
+P0209,Chain Sprocket Kit,Drivetrain,100cc,2150,494
+P0210,Handle Grip,Rubber/Misc,100cc,150,120
+P0211,Headlight Assembly,Electrical,70cc,550,483
+P0212,Fuel Tank,Body/Frame,125cc,4800,98
+P0213,Side Cover,Body/Frame,100cc,950,369
+P0214,Rear Axle,Drivetrain,100cc,280,119
+P0215,CDI Unit,Electrical,100cc,450,151
+P0216,Mudguard Rear,Body/Frame,100cc,780,385
+P0217,Spark Plug,Electrical,70cc,350,477
+P0218,Footrest Rubber,Rubber/Misc,125cc,160,333
+P0219,Piston Kit,Engine,100cc,1350,286
+P0220,Ignition Switch,Electrical,100cc,600,296
+P0221,Drive Chain,Drivetrain,125cc,850,121
+P0222,Disc Pad,Braking,100cc,320,110
+P0223,Piston Kit,Engine,100cc,1350,129
+P0224,Footrest Rubber,Rubber/Misc,125cc,160,285
+P0225,Drum Rubber,Rubber/Misc,125cc,220,207
+P0226,Rear Axle,Drivetrain,70cc,220,266
+P0227,Ignition Switch,Electrical,100cc,600,236
+P0228,Gasket Kit,Engine,100cc,260,309
+P0229,Cylinder Block,Engine,100cc,3800,340
+P0230,Drum Rubber,Rubber/Misc,70cc,120,285
+P0231,Drum Rubber,Rubber/Misc,70cc,120,462
+P0232,Headlight Assembly,Electrical,70cc,550,72
+P0233,Indicator Relay,Electrical,125cc,150,304
+P0234,CDI Unit,Electrical,125cc,650,469
+P0235,Handle Bar,Body/Frame,70cc,500,403
+P0236,Chain Sprocket Kit,Drivetrain,100cc,2150,100
+P0237,Spark Plug,Electrical,100cc,350,45
+P0238,Mudguard Rear,Body/Frame,70cc,600,112
+P0239,Sprocket Hub,Drivetrain,100cc,620,49
+P0240,Brake Shoe Set,Braking,70cc,280,334
+P0241,Mudguard Rear,Body/Frame,125cc,1100,195
+P0242,Air Cleaner Filter,Rubber/Misc,70cc,160,101
+P0243,Drum Rubber,Rubber/Misc,100cc,160,493
+P0244,Chain Sprocket Kit,Drivetrain,100cc,2150,142
+P0245,Fuel Tank,Body/Frame,70cc,2800,250
+P0246,Headlight Assembly,Electrical,70cc,550,465
+P0247,Handle Bar,Body/Frame,70cc,500,408
+P0248,Handle Grip,Rubber/Misc,125cc,180,26
+P0249,Footrest Rubber,Rubber/Misc,70cc,120,360
+P0250,Chain Sprocket Kit,Drivetrain,70cc,1650,51
+P0251,Air Cleaner Filter,Rubber/Misc,100cc,220,95
+P0252,Cylinder Block,Engine,125cc,4800,349
+P0253,Rear Axle,Drivetrain,125cc,380,499
+P0254,Spark Plug,Electrical,100cc,350,327
+P0255,Clutch Plate Set,Engine,100cc,850,191
+P0256,Brake Cable,Braking,70cc,140,322
+P0257,Drum Rubber,Rubber/Misc,70cc,120,82
+P0258,Drive Chain,Drivetrain,100cc,600,259
+P0259,Side Cover,Body/Frame,100cc,950,75
+P0260,Ignition Switch,Electrical,125cc,850,331
+P0261,Drive Chain,Drivetrain,100cc,600,456
+P0262,CDI Unit,Electrical,100cc,450,10
+P0263,Spark Plug,Electrical,125cc,385,437
+P0264,Fuel Tank,Body/Frame,100cc,3600,70
+P0265,Rear Axle,Drivetrain,70cc,220,288
+P0266,Air Cleaner Filter,Rubber/Misc,70cc,160,8
+P0267,Clutch Plate Set,Engine,70cc,550,369
+P0268,Brake Shoe Set,Braking,100cc,380,135
+P0269,Footrest Rubber,Rubber/Misc,70cc,120,33
+P0270,Footrest Rubber,Rubber/Misc,70cc,120,396
+P0271,Brake Lever,Braking,100cc,140,342
+P0272,Mudguard Front,Body/Frame,70cc,550,358
+P0273,Mudguard Front,Body/Frame,70cc,550,184
+P0274,Indicator Relay,Electrical,100cc,120,45
+P0275,CDI Unit,Electrical,70cc,320,377
+P0276,Brake Cable,Braking,100cc,180,466
+P0277,Brake Lever,Braking,100cc,140,89
+P0278,Clutch Plate Set,Engine,125cc,2200,418
+P0279,Spark Plug,Electrical,70cc,350,125
+P0280,Clutch Plate Set,Engine,100cc,850,321
+P0281,Brake Cable,Braking,70cc,140,274
+P0282,Drive Chain,Drivetrain,125cc,850,300
+P0283,Ignition Switch,Electrical,125cc,850,366
+P0284,Clutch Plate Set,Engine,125cc,2200,263
+P0285,Clutch Plate Set,Engine,125cc,2200,343
+P0286,Brake Shoe Set,Braking,70cc,280,54
+P0287,Rear Axle,Drivetrain,70cc,220,179
+P0288,Fuel Tank,Body/Frame,100cc,3600,141
+P0289,Rear Axle,Drivetrain,100cc,280,103
+P0290,Piston Kit,Engine,100cc,1350,292
+P0291,Ignition Switch,Electrical,100cc,600,11
+P0292,Headlight Assembly,Electrical,70cc,550,482
+P0293,Mudguard Rear,Body/Frame,100cc,780,457
+P0294,Chain Sprocket Kit,Drivetrain,100cc,2150,315
+P0295,Disc Pad,Braking,125cc,450,106
+P0296,Fuel Tank,Body/Frame,70cc,2800,281
+P0297,Brake Shoe Set,Braking,100cc,380,207
+P0298,Brake Shoe Set,Braking,100cc,380,395
+P0299,Brake Cable,Braking,125cc,220,403
+P0300,Mudguard Front,Body/Frame,70cc,550,173
+P0301,Rear Axle,Drivetrain,100cc,280,15
+P0302,Drive Chain,Drivetrain,70cc,450,351
+P0303,Disc Pad,Braking,100cc,320,30
+P0304,Disc Pad,Braking,125cc,450,370
+P0305,Footrest Rubber,Rubber/Misc,100cc,140,232
+P0306,Brake Shoe Set,Braking,100cc,380,478
+P0307,Brake Shoe Set,Braking,125cc,550,382
+P0308,Cylinder Block,Engine,100cc,3800,340
+P0309,Clutch Plate Set,Engine,125cc,2200,210
+P0310,Cylinder Block,Engine,70cc,2800,492
+P0311,Handle Grip,Rubber/Misc,125cc,180,242
+P0312,Handle Bar,Body/Frame,125cc,850,422
+P0313,Chain Sprocket Kit,Drivetrain,125cc,2850,82
+P0314,Brake Shoe Set,Braking,125cc,550,238
+P0315,Indicator Relay,Electrical,70cc,90,350
+P0316,Piston Kit,Engine,125cc,1850,276
+P0317,Cylinder Block,Engine,125cc,4800,313
+P0318,Drum Rubber,Rubber/Misc,100cc,160,287
+P0319,Handle Grip,Rubber/Misc,70cc,120,14
+P0320,Oil Pump,Engine,70cc,380,481
+P0321,Brake Cable,Braking,100cc,180,382
+P0322,Spark Plug,Electrical,125cc,385,354
+P0323,Handle Grip,Rubber/Misc,70cc,120,79
+P0324,Handle Grip,Rubber/Misc,125cc,180,365
+P0325,Brake Shoe Set,Braking,70cc,280,452
+P0326,Drive Chain,Drivetrain,70cc,450,443
+P0327,Chain Sprocket Kit,Drivetrain,100cc,2150,180
+P0328,Drum Rubber,Rubber/Misc,100cc,160,246
+P0329,Drive Chain,Drivetrain,100cc,600,420
+P0330,Spark Plug,Electrical,70cc,350,216
+P0331,Brake Lever,Braking,125cc,180,283
+P0332,Spark Plug,Electrical,100cc,350,494
+P0333,Spark Plug,Electrical,70cc,350,200
+P0334,Mudguard Front,Body/Frame,100cc,750,435
+P0335,Drive Chain,Drivetrain,125cc,850,483
+P0336,Brake Cable,Braking,70cc,140,341
+P0337,Drum Rubber,Rubber/Misc,100cc,160,97
+P0338,Footrest Rubber,Rubber/Misc,70cc,120,451
+P0339,Gasket Kit,Engine,125cc,380,204
+P0340,Mudguard Rear,Body/Frame,125cc,1100,97
+P0341,CDI Unit,Electrical,70cc,320,431
+P0342,Disc Pad,Braking,100cc,320,483
+P0343,Gasket Kit,Engine,125cc,380,249
+P0344,Drive Chain,Drivetrain,100cc,600,349
+P0345,Chain Sprocket Kit,Drivetrain,70cc,1650,61
+P0346,Brake Lever,Braking,70cc,120,101
+P0347,Fuel Tank,Body/Frame,100cc,3600,291
+P0348,Chain Sprocket Kit,Drivetrain,100cc,2150,461
+P0349,Disc Pad,Braking,70cc,250,411
+P0350,Gasket Kit,Engine,70cc,180,355
+P0351,Chain Sprocket Kit,Drivetrain,125cc,2850,292
+P0352,Rear Axle,Drivetrain,100cc,280,424
+P0353,Brake Lever,Braking,125cc,180,68
+P0354,Ignition Switch,Electrical,70cc,450,277
+P0355,Fuel Tank,Body/Frame,125cc,4800,335
+P0356,Brake Shoe Set,Braking,70cc,280,173
+P0357,Rear Axle,Drivetrain,100cc,280,251
+P0358,Drum Rubber,Rubber/Misc,70cc,120,4
+P0359,Ignition Switch,Electrical,125cc,850,357
+P0360,Piston Kit,Engine,70cc,950,457
+P0361,Gasket Kit,Engine,70cc,180,98
+P0362,Handle Grip,Rubber/Misc,100cc,150,207
+P0363,Spark Plug,Electrical,100cc,350,70
+P0364,Sprocket Hub,Drivetrain,70cc,480,165
+P0365,Cylinder Block,Engine,70cc,2800,347
+P0366,Drive Chain,Drivetrain,70cc,450,203
+P0367,Drum Rubber,Rubber/Misc,70cc,120,182
+P0368,Brake Cable,Braking,70cc,140,219
+P0369,Brake Lever,Braking,125cc,180,80
+P0370,Footrest Rubber,Rubber/Misc,100cc,140,378
+P0371,Handle Grip,Rubber/Misc,100cc,150,227
+P0372,Mudguard Rear,Body/Frame,125cc,1100,141
+P0373,Ignition Switch,Electrical,125cc,850,315
+P0374,Brake Shoe Set,Braking,125cc,550,3
+P0375,Side Cover,Body/Frame,70cc,750,214
+P0376,Side Cover,Body/Frame,100cc,950,399
+P0377,Mudguard Front,Body/Frame,100cc,750,120
+P0378,Cylinder Block,Engine,125cc,4800,134
+P0379,Brake Lever,Braking,100cc,140,71
+P0380,CDI Unit,Electrical,100cc,450,499
+P0381,Drive Chain,Drivetrain,125cc,850,259
+P0382,Spark Plug,Electrical,70cc,350,348
+P0383,Piston Kit,Engine,125cc,1850,224
+P0384,Mudguard Rear,Body/Frame,70cc,600,340
+P0385,Chain Sprocket Kit,Drivetrain,125cc,2850,112
+P0386,Chain Sprocket Kit,Drivetrain,125cc,2850,117
+P0387,Fuel Tank,Body/Frame,70cc,2800,67
+P0388,Side Cover,Body/Frame,125cc,1350,303
+P0389,Sprocket Hub,Drivetrain,100cc,620,290
+P0390,CDI Unit,Electrical,70cc,320,413
+P0391,Rear Axle,Drivetrain,100cc,280,207
+P0392,Indicator Relay,Electrical,125cc,150,74
+P0393,Brake Shoe Set,Braking,70cc,280,356
+P0394,CDI Unit,Electrical,100cc,450,112
+P0395,Rear Axle,Drivetrain,100cc,280,451
+P0396,Ignition Switch,Electrical,100cc,600,334
+P0397,Gasket Kit,Engine,100cc,260,161
+P0398,Handle Grip,Rubber/Misc,100cc,150,437
+P0399,Ignition Switch,Electrical,125cc,850,94
+P0400,Brake Cable,Braking,125cc,220,166
+P0401,Side Cover,Body/Frame,70cc,750,8
+P0402,Clutch Plate Set,Engine,70cc,550,444
+P0403,Brake Cable,Braking,125cc,220,216
+P0404,Air Cleaner Filter,Rubber/Misc,125cc,320,265
+P0405,Handle Bar,Body/Frame,125cc,850,455
+P0406,Air Cleaner Filter,Rubber/Misc,100cc,220,133
+P0407,Disc Pad,Braking,125cc,450,104
+P0408,Brake Lever,Braking,100cc,140,15
+P0409,Drum Rubber,Rubber/Misc,100cc,160,426
+P0410,CDI Unit,Electrical,125cc,650,398
+P0411,Oil Pump,Engine,100cc,480,255
+P0412,Rear Axle,Drivetrain,70cc,220,427
+P0413,Ignition Switch,Electrical,70cc,450,1
+P0414,Drum Rubber,Rubber/Misc,100cc,160,373
+P0415,Piston Kit,Engine,125cc,1850,191
+P0416,Disc Pad,Braking,125cc,450,253
+P0417,Brake Lever,Braking,125cc,180,462
+P0418,Mudguard Front,Body/Frame,100cc,750,47
+P0419,Air Cleaner Filter,Rubber/Misc,70cc,160,389
+P0420,Footrest Rubber,Rubber/Misc,125cc,160,401
+P0421,Mudguard Rear,Body/Frame,125cc,1100,440
+P0422,Spark Plug,Electrical,70cc,350,315
+P0423,Rear Axle,Drivetrain,100cc,280,222
+P0424,Clutch Plate Set,Engine,100cc,850,183
+P0425,Side Cover,Body/Frame,125cc,1350,307
+P0426,Brake Shoe Set,Braking,125cc,550,163
+P0427,Chain Sprocket Kit,Drivetrain,100cc,2150,189
+P0428,Fuel Tank,Body/Frame,70cc,2800,109
+P0429,Air Cleaner Filter,Rubber/Misc,70cc,160,188
+P0430,Disc Pad,Braking,125cc,450,225
+P0431,CDI Unit,Electrical,70cc,320,438
+P0432,Spark Plug,Electrical,100cc,350,490
+P0433,Gasket Kit,Engine,125cc,380,496
+P0434,Air Cleaner Filter,Rubber/Misc,70cc,160,221
+P0435,Indicator Relay,Electrical,125cc,150,239
+P0436,Handle Grip,Rubber/Misc,125cc,180,353
+P0437,Disc Pad,Braking,100cc,320,459
+P0438,Cylinder Block,Engine,125cc,4800,55
+P0439,Handle Grip,Rubber/Misc,125cc,180,287
+P0440,Clutch Plate Set,Engine,125cc,2200,375
+P0441,Handle Bar,Body/Frame,125cc,850,363
+P0442,Drive Chain,Drivetrain,125cc,850,452
+P0443,Brake Lever,Braking,100cc,140,411
+P0444,Drum Rubber,Rubber/Misc,125cc,220,90
+P0445,Fuel Tank,Body/Frame,70cc,2800,8
+P0446,Drive Chain,Drivetrain,125cc,850,42
+P0447,Clutch Plate Set,Engine,70cc,550,43
+P0448,CDI Unit,Electrical,70cc,320,309
+P0449,Gasket Kit,Engine,100cc,260,78
+P0450,Piston Kit,Engine,70cc,950,318
+P0451,Indicator Relay,Electrical,125cc,150,3
+P0452,Handle Grip,Rubber/Misc,125cc,180,383
+P0453,Cylinder Block,Engine,125cc,4800,152
+P0454,Indicator Relay,Electrical,125cc,150,297
+P0455,Rear Axle,Drivetrain,70cc,220,335
+P0456,Rear Axle,Drivetrain,70cc,220,348
+P0457,Fuel Tank,Body/Frame,125cc,4800,448
+P0458,Rear Axle,Drivetrain,70cc,220,252
+P0459,Drive Chain,Drivetrain,100cc,600,378
+P0460,Brake Lever,Braking,100cc,140,349
+P0461,Gasket Kit,Engine,100cc,260,241
+P0462,Footrest Rubber,Rubber/Misc,70cc,120,132
+P0463,Mudguard Front,Body/Frame,70cc,550,17
+P0464,Brake Cable,Braking,100cc,180,33
+P0465,Indicator Relay,Electrical,70cc,90,328
+P0466,Indicator Relay,Electrical,70cc,90,311
+P0467,Sprocket Hub,Drivetrain,100cc,620,121
+P0468,Clutch Plate Set,Engine,100cc,850,300
+P0469,Clutch Plate Set,Engine,70cc,550,436
+P0470,Sprocket Hub,Drivetrain,100cc,620,468
+P0471,Brake Shoe Set,Braking,125cc,550,46
+P0472,Disc Pad,Braking,100cc,320,408
+P0473,Headlight Assembly,Electrical,125cc,1250,216
+P0474,Mudguard Front,Body/Frame,70cc,550,11
+P0475,Chain Sprocket Kit,Drivetrain,125cc,2850,244
+P0476,Footrest Rubber,Rubber/Misc,125cc,160,158
+P0477,Disc Pad,Braking,70cc,250,14
+P0478,Rear Axle,Drivetrain,70cc,220,372
+P0479,Gasket Kit,Engine,125cc,380,402
+P0480,Drive Chain,Drivetrain,125cc,850,120
+P0481,Footrest Rubber,Rubber/Misc,70cc,120,270
+P0482,Sprocket Hub,Drivetrain,70cc,480,225
+P0483,Air Cleaner Filter,Rubber/Misc,100cc,220,66
+P0484,Brake Shoe Set,Braking,125cc,550,254
+P0485,Mudguard Rear,Body/Frame,100cc,780,451
+P0486,Ignition Switch,Electrical,70cc,450,418
+P0487,CDI Unit,Electrical,70cc,320,304
+P0488,Headlight Assembly,Electrical,100cc,750,204
+P0489,Drive Chain,Drivetrain,100cc,600,14
+P0490,Fuel Tank,Body/Frame,70cc,2800,182
+P0491,Brake Shoe Set,Braking,70cc,280,264
+P0492,Handle Grip,Rubber/Misc,100cc,150,297
+P0493,Piston Kit,Engine,70cc,950,255
+P0494,Drive Chain,Drivetrain,100cc,600,455
+P0495,Brake Cable,Braking,70cc,140,333
+P0496,Chain Sprocket Kit,Drivetrain,100cc,2150,393
+P0497,Air Cleaner Filter,Rubber/Misc,100cc,220,455
+P0498,Footrest Rubber,Rubber/Misc,70cc,120,11
+P0499,Mudguard Front,Body/Frame,70cc,550,280
+P0500,Rear Axle,Drivetrain,125cc,380,334
+P0501,Footrest Rubber,Rubber/Misc,100cc,140,417
+P0502,Clutch Plate Set,Engine,100cc,850,430
+P0503,Oil Pump,Engine,125cc,680,405
+P0504,Cylinder Block,Engine,100cc,3800,347
+P0505,Sprocket Hub,Drivetrain,100cc,620,410
+P0506,Drive Chain,Drivetrain,70cc,450,336
+P0507,Air Cleaner Filter,Rubber/Misc,125cc,320,105
+P0508,Clutch Plate Set,Engine,125cc,2200,220
+P0509,Spark Plug,Electrical,100cc,350,479
+P0510,Disc Pad,Braking,70cc,250,369
+P0511,Gasket Kit,Engine,70cc,180,445
+P0512,Rear Axle,Drivetrain,100cc,280,442
+P0513,Rear Axle,Drivetrain,70cc,220,145
+P0514,Brake Shoe Set,Braking,100cc,380,57
+P0515,Gasket Kit,Engine,70cc,180,154
+P0516,Gasket Kit,Engine,70cc,180,462
+P0517,Brake Cable,Braking,100cc,180,451
+P0518,Clutch Plate Set,Engine,100cc,850,399
+P0519,Disc Pad,Braking,70cc,250,241
+P0520,Brake Lever,Braking,100cc,140,167
+P0521,Oil Pump,Engine,100cc,480,234
+P0522,Cylinder Block,Engine,70cc,2800,155
+P0523,Handle Bar,Body/Frame,70cc,500,348
+P0524,Air Cleaner Filter,Rubber/Misc,70cc,160,45
+P0525,Handle Grip,Rubber/Misc,100cc,150,12
+P0526,Oil Pump,Engine,70cc,380,286
+P0527,Footrest Rubber,Rubber/Misc,100cc,140,488
+P0528,Brake Lever,Braking,70cc,120,297
+P0529,Cylinder Block,Engine,125cc,4800,245
+P0530,Sprocket Hub,Drivetrain,125cc,850,244
+P0531,Side Cover,Body/Frame,125cc,1350,44
+P0532,Brake Cable,Braking,100cc,180,313
+P0533,Gasket Kit,Engine,70cc,180,63
+P0534,Drive Chain,Drivetrain,125cc,850,36
+P0535,Headlight Assembly,Electrical,100cc,750,413
+P0536,Footrest Rubber,Rubber/Misc,125cc,160,411
+P0537,Piston Kit,Engine,100cc,1350,289
+P0538,Chain Sprocket Kit,Drivetrain,100cc,2150,293
+P0539,Handle Bar,Body/Frame,70cc,500,253
+P0540,Fuel Tank,Body/Frame,125cc,4800,245
+P0541,Handle Grip,Rubber/Misc,70cc,120,181
+P0542,Mudguard Rear,Body/Frame,70cc,600,234
+P0543,Headlight Assembly,Electrical,100cc,750,400
+P0544,Gasket Kit,Engine,70cc,180,434
+P0545,Brake Cable,Braking,100cc,180,374
+P0546,Sprocket Hub,Drivetrain,125cc,850,93
+P0547,Piston Kit,Engine,100cc,1350,418
+P0548,Handle Grip,Rubber/Misc,100cc,150,227
+P0549,Disc Pad,Braking,70cc,250,88
+P0550,Sprocket Hub,Drivetrain,100cc,620,384
+P0551,CDI Unit,Electrical,125cc,650,493
+P0552,Ignition Switch,Electrical,125cc,850,23
+P0553,CDI Unit,Electrical,70cc,320,274
+P0554,Handle Grip,Rubber/Misc,100cc,150,297
+P0555,Clutch Plate Set,Engine,125cc,2200,351
+P0556,Clutch Plate Set,Engine,100cc,850,399
+P0557,Headlight Assembly,Electrical,125cc,1250,92
+P0558,Oil Pump,Engine,100cc,480,398
+P0559,Sprocket Hub,Drivetrain,100cc,620,290
+P0560,Sprocket Hub,Drivetrain,100cc,620,291
+P0561,Handle Bar,Body/Frame,125cc,850,72
+P0562,Ignition Switch,Electrical,70cc,450,473
+P0563,CDI Unit,Electrical,70cc,320,79
+P0564,Brake Cable,Braking,100cc,180,380
+P0565,Mudguard Rear,Body/Frame,125cc,1100,199
+P0566,Indicator Relay,Electrical,100cc,120,207
+P0567,Drive Chain,Drivetrain,70cc,450,341
+P0568,Disc Pad,Braking,100cc,320,134
+P0569,Brake Lever,Braking,70cc,120,124
+P0570,Brake Shoe Set,Braking,100cc,380,248
+P0571,Air Cleaner Filter,Rubber/Misc,125cc,320,122
+P0572,Headlight Assembly,Electrical,125cc,1250,405
+P0573,Handle Grip,Rubber/Misc,125cc,180,194
+P0574,Brake Lever,Braking,100cc,140,92
+P0575,Fuel Tank,Body/Frame,125cc,4800,426
+P0576,Clutch Plate Set,Engine,125cc,2200,184
+P0577,Rear Axle,Drivetrain,70cc,220,332
+P0578,Drive Chain,Drivetrain,70cc,450,74
+P0579,Handle Grip,Rubber/Misc,100cc,150,499
+P0580,Disc Pad,Braking,70cc,250,47
+P0581,Rear Axle,Drivetrain,70cc,220,35
+P0582,Footrest Rubber,Rubber/Misc,100cc,140,460
+P0583,Clutch Plate Set,Engine,125cc,2200,259
+P0584,Drum Rubber,Rubber/Misc,125cc,220,375
+P0585,CDI Unit,Electrical,125cc,650,8
+P0586,Spark Plug,Electrical,100cc,350,395
+P0587,CDI Unit,Electrical,125cc,650,177
+P0588,CDI Unit,Electrical,125cc,650,100
+P0589,Disc Pad,Braking,70cc,250,68
+P0590,Sprocket Hub,Drivetrain,125cc,850,88
+P0591,Brake Lever,Braking,100cc,140,440
+P0592,Disc Pad,Braking,125cc,450,378
+P0593,Brake Cable,Braking,100cc,180,149
+P0594,Brake Lever,Braking,70cc,120,462
+P0595,Handle Grip,Rubber/Misc,70cc,120,379
+P0596,Drive Chain,Drivetrain,125cc,850,454
+P0597,Drum Rubber,Rubber/Misc,100cc,160,41
+P0598,Brake Cable,Braking,100cc,180,316
+P0599,Handle Bar,Body/Frame,70cc,500,80
+P0600,Footrest Rubber,Rubber/Misc,125cc,160,176
+P0601,Fuel Tank,Body/Frame,125cc,4800,96
+P0602,Oil Pump,Engine,125cc,680,358
+P0603,Headlight Assembly,Electrical,100cc,750,255
+P0604,Oil Pump,Engine,125cc,680,149
+P0605,Mudguard Front,Body/Frame,125cc,1150,432
+P0606,Air Cleaner Filter,Rubber/Misc,125cc,320,277
+P0607,Gasket Kit,Engine,125cc,380,476
+P0608,Sprocket Hub,Drivetrain,100cc,620,362
+P0609,Clutch Plate Set,Engine,70cc,550,487
+P0610,Cylinder Block,Engine,70cc,2800,201
+P0611,Mudguard Rear,Body/Frame,100cc,780,249
+P0612,Footrest Rubber,Rubber/Misc,125cc,160,451
+P0613,Cylinder Block,Engine,100cc,3800,75
+P0614,Oil Pump,Engine,125cc,680,29
+P0615,Sprocket Hub,Drivetrain,100cc,620,370
+P0616,Disc Pad,Braking,70cc,250,88
+P0617,Rear Axle,Drivetrain,100cc,280,252
+P0618,Drum Rubber,Rubber/Misc,100cc,160,224
+P0619,Drive Chain,Drivetrain,100cc,600,206
+P0620,Mudguard Front,Body/Frame,100cc,750,473
+P0621,Indicator Relay,Electrical,70cc,90,466
+P0622,Air Cleaner Filter,Rubber/Misc,125cc,320,251
+P0623,Brake Lever,Braking,125cc,180,125
+P0624,Ignition Switch,Electrical,100cc,600,62
+P0625,Brake Cable,Braking,125cc,220,394
+P0626,Air Cleaner Filter,Rubber/Misc,100cc,220,281
+P0627,Headlight Assembly,Electrical,125cc,1250,149
+P0628,CDI Unit,Electrical,70cc,320,121
+P0629,Gasket Kit,Engine,100cc,260,407
+P0630,Handle Bar,Body/Frame,100cc,650,88
+P0631,Disc Pad,Braking,100cc,320,43
+P0632,CDI Unit,Electrical,125cc,650,0
+P0633,Brake Shoe Set,Braking,100cc,380,152
+P0634,Brake Lever,Braking,100cc,140,154
+P0635,Fuel Tank,Body/Frame,70cc,2800,40
+P0636,Drive Chain,Drivetrain,125cc,850,348
+P0637,Cylinder Block,Engine,70cc,2800,290
+P0638,Cylinder Block,Engine,100cc,3800,273
+P0639,Side Cover,Body/Frame,100cc,950,239
+P0640,Oil Pump,Engine,100cc,480,180
+P0641,Piston Kit,Engine,125cc,1850,48
+P0642,Handle Grip,Rubber/Misc,70cc,120,40
+P0643,Headlight Assembly,Electrical,125cc,1250,300
+P0644,Side Cover,Body/Frame,125cc,1350,331
+P0645,Brake Lever,Braking,70cc,120,189
+P0646,Sprocket Hub,Drivetrain,125cc,850,256
+P0647,Side Cover,Body/Frame,70cc,750,439
+P0648,Mudguard Rear,Body/Frame,125cc,1100,468
+P0649,Piston Kit,Engine,125cc,1850,395
+P0650,Side Cover,Body/Frame,100cc,950,111
+P0651,Spark Plug,Electrical,125cc,385,486
+P0652,Brake Shoe Set,Braking,70cc,280,121
+P0653,Sprocket Hub,Drivetrain,100cc,620,232
+P0654,Drive Chain,Drivetrain,70cc,450,218
+P0655,Piston Kit,Engine,100cc,1350,410
+P0656,Footrest Rubber,Rubber/Misc,100cc,140,469
+P0657,Cylinder Block,Engine,125cc,4800,61
+P0658,Chain Sprocket Kit,Drivetrain,125cc,2850,219
+P0659,Air Cleaner Filter,Rubber/Misc,70cc,160,236
+P0660,Ignition Switch,Electrical,70cc,450,337
+P0661,Rear Axle,Drivetrain,70cc,220,364
+P0662,Cylinder Block,Engine,125cc,4800,287
+P0663,Clutch Plate Set,Engine,100cc,850,414
+P0664,Spark Plug,Electrical,100cc,350,268
+P0665,Sprocket Hub,Drivetrain,100cc,620,137
+P0666,Sprocket Hub,Drivetrain,70cc,480,210
+P0667,Gasket Kit,Engine,100cc,260,370
+P0668,Chain Sprocket Kit,Drivetrain,125cc,2850,444
+P0669,Footrest Rubber,Rubber/Misc,125cc,160,439
+P0670,CDI Unit,Electrical,70cc,320,205
+P0671,Handle Bar,Body/Frame,125cc,850,406
+P0672,Piston Kit,Engine,100cc,1350,480
+P0673,Drum Rubber,Rubber/Misc,125cc,220,29
+P0674,Clutch Plate Set,Engine,100cc,850,229
+P0675,Side Cover,Body/Frame,100cc,950,59
+P0676,Spark Plug,Electrical,125cc,385,41
+P0677,Sprocket Hub,Drivetrain,125cc,850,160
+P0678,Drive Chain,Drivetrain,70cc,450,380
+P0679,Mudguard Rear,Body/Frame,125cc,1100,151
+P0680,Brake Cable,Braking,100cc,180,127
+P0681,Ignition Switch,Electrical,70cc,450,378
+P0682,Ignition Switch,Electrical,125cc,850,194
+P0683,Mudguard Rear,Body/Frame,70cc,600,422
+P0684,Spark Plug,Electrical,125cc,385,85
+P0685,Gasket Kit,Engine,100cc,260,233
+P0686,Cylinder Block,Engine,70cc,2800,66
+P0687,Clutch Plate Set,Engine,100cc,850,328
+P0688,Cylinder Block,Engine,70cc,2800,134
+P0689,Headlight Assembly,Electrical,100cc,750,100
+P0690,Gasket Kit,Engine,70cc,180,353
+P0691,Brake Lever,Braking,100cc,140,440
+P0692,Brake Lever,Braking,70cc,120,468
+P0693,Brake Lever,Braking,125cc,180,408
+P0694,Spark Plug,Electrical,125cc,385,149
+P0695,Air Cleaner Filter,Rubber/Misc,100cc,220,405
+P0696,Side Cover,Body/Frame,100cc,950,101
+P0697,Fuel Tank,Body/Frame,70cc,2800,174
+P0698,Drum Rubber,Rubber/Misc,70cc,120,228
+P0699,Footrest Rubber,Rubber/Misc,100cc,140,32
+P0700,Rear Axle,Drivetrain,125cc,380,312
+P0701,Drive Chain,Drivetrain,125cc,850,422
+P0702,Drive Chain,Drivetrain,70cc,450,14
+P0703,Fuel Tank,Body/Frame,125cc,4800,18
+P0704,Drum Rubber,Rubber/Misc,70cc,120,230
+P0705,Sprocket Hub,Drivetrain,125cc,850,34
+P0706,Gasket Kit,Engine,70cc,180,188
+P0707,Fuel Tank,Body/Frame,70cc,2800,374
+P0708,Clutch Plate Set,Engine,70cc,550,41
+P0709,Gasket Kit,Engine,70cc,180,36
+P0710,Rear Axle,Drivetrain,125cc,380,61
+P0711,Brake Shoe Set,Braking,100cc,380,141
+P0712,Spark Plug,Electrical,100cc,350,486
+P0713,Handle Grip,Rubber/Misc,125cc,180,21
+P0714,Handle Grip,Rubber/Misc,100cc,150,21
+P0715,Side Cover,Body/Frame,125cc,1350,295
+P0716,Handle Bar,Body/Frame,125cc,850,444
+P0717,Fuel Tank,Body/Frame,125cc,4800,183
+P0718,Chain Sprocket Kit,Drivetrain,70cc,1650,131
+P0719,Gasket Kit,Engine,70cc,180,487
+P0720,Drum Rubber,Rubber/Misc,100cc,160,375
+P0721,Brake Cable,Braking,125cc,220,495
+P0722,Headlight Assembly,Electrical,100cc,750,44
+P0723,Chain Sprocket Kit,Drivetrain,125cc,2850,287
+P0724,Handle Grip,Rubber/Misc,70cc,120,187
+P0725,Headlight Assembly,Electrical,125cc,1250,89
+P0726,Footrest Rubber,Rubber/Misc,125cc,160,108
+P0727,Brake Lever,Braking,100cc,140,212
+P0728,Drive Chain,Drivetrain,100cc,600,228
+P0729,Drive Chain,Drivetrain,100cc,600,88
+P0730,Mudguard Rear,Body/Frame,100cc,780,222
+P0731,Fuel Tank,Body/Frame,125cc,4800,123
+P0732,Drum Rubber,Rubber/Misc,70cc,120,337
+P0733,CDI Unit,Electrical,125cc,650,393
+P0734,Chain Sprocket Kit,Drivetrain,125cc,2850,182
+P0735,Rear Axle,Drivetrain,100cc,280,458
+P0736,Side Cover,Body/Frame,70cc,750,280
+P0737,Gasket Kit,Engine,100cc,260,130
+P0738,Mudguard Front,Body/Frame,125cc,1150,358
+P0739,Clutch Plate Set,Engine,125cc,2200,244
+P0740,Rear Axle,Drivetrain,70cc,220,235
+P0741,Chain Sprocket Kit,Drivetrain,70cc,1650,80
+P0742,Clutch Plate Set,Engine,70cc,550,366
+P0743,Mudguard Rear,Body/Frame,125cc,1100,329
+P0744,Chain Sprocket Kit,Drivetrain,70cc,1650,3
+P0745,Ignition Switch,Electrical,70cc,450,283
+P0746,Drive Chain,Drivetrain,100cc,600,72
+P0747,Headlight Assembly,Electrical,100cc,750,453
+P0748,Clutch Plate Set,Engine,100cc,850,358
+P0749,Headlight Assembly,Electrical,125cc,1250,372
+P0750,Fuel Tank,Body/Frame,125cc,4800,298
+P0751,Indicator Relay,Electrical,70cc,90,324
+P0752,Fuel Tank,Body/Frame,100cc,3600,183
+P0753,Brake Shoe Set,Braking,100cc,380,106
+P0754,Air Cleaner Filter,Rubber/Misc,125cc,320,270
+P0755,Chain Sprocket Kit,Drivetrain,70cc,1650,262
+P0756,CDI Unit,Electrical,70cc,320,230
+P0757,Brake Cable,Braking,100cc,180,23
+P0758,Rear Axle,Drivetrain,70cc,220,153
+P0759,Brake Shoe Set,Braking,70cc,280,82
+P0760,Cylinder Block,Engine,70cc,2800,424
+P0761,Air Cleaner Filter,Rubber/Misc,100cc,220,88
+P0762,Side Cover,Body/Frame,100cc,950,409
+P0763,Chain Sprocket Kit,Drivetrain,70cc,1650,316
+P0764,Air Cleaner Filter,Rubber/Misc,100cc,220,276
+P0765,Handle Grip,Rubber/Misc,100cc,150,254
+P0766,Handle Grip,Rubber/Misc,125cc,180,48
+P0767,Side Cover,Body/Frame,125cc,1350,376
+P0768,Handle Grip,Rubber/Misc,70cc,120,351
+P0769,Handle Bar,Body/Frame,100cc,650,307
+P0770,Fuel Tank,Body/Frame,100cc,3600,442
+P0771,Brake Lever,Braking,70cc,120,433
+P0772,Drive Chain,Drivetrain,125cc,850,123
+P0773,Chain Sprocket Kit,Drivetrain,125cc,2850,470
+P0774,Chain Sprocket Kit,Drivetrain,100cc,2150,394
+P0775,Clutch Plate Set,Engine,125cc,2200,409
+P0776,Footrest Rubber,Rubber/Misc,100cc,140,277
+P0777,Chain Sprocket Kit,Drivetrain,100cc,2150,416
+P0778,Drive Chain,Drivetrain,70cc,450,458
+P0779,Fuel Tank,Body/Frame,70cc,2800,254
+P0780,Headlight Assembly,Electrical,125cc,1250,385
+P0781,Drum Rubber,Rubber/Misc,70cc,120,285
+P0782,Oil Pump,Engine,70cc,380,333
+P0783,Handle Bar,Body/Frame,125cc,850,170
+P0784,Side Cover,Body/Frame,70cc,750,398
+P0785,Drive Chain,Drivetrain,70cc,450,60
+P0786,Handle Bar,Body/Frame,70cc,500,268
+P0787,Spark Plug,Electrical,70cc,350,427
+P0788,Drum Rubber,Rubber/Misc,70cc,120,311
+P0789,Cylinder Block,Engine,125cc,4800,394
+P0790,Brake Shoe Set,Braking,70cc,280,249
+P0791,Rear Axle,Drivetrain,125cc,380,45
+P0792,Drum Rubber,Rubber/Misc,125cc,220,49
+P0793,Drum Rubber,Rubber/Misc,100cc,160,297
+P0794,Brake Cable,Braking,100cc,180,499
+P0795,Air Cleaner Filter,Rubber/Misc,70cc,160,450
+P0796,Drum Rubber,Rubber/Misc,70cc,120,188
+P0797,Brake Lever,Braking,125cc,180,231
+P0798,Gasket Kit,Engine,125cc,380,24
+P0799,Handle Grip,Rubber/Misc,100cc,150,405
+P0800,Sprocket Hub,Drivetrain,125cc,850,497
+P0801,Mudguard Front,Body/Frame,125cc,1150,99
+P0802,Clutch Plate Set,Engine,125cc,2200,321
+P0803,Ignition Switch,Electrical,125cc,850,77
+P0804,Ignition Switch,Electrical,70cc,450,119
+P0805,CDI Unit,Electrical,100cc,450,415
+P0806,Brake Shoe Set,Braking,125cc,550,171
+P0807,Indicator Relay,Electrical,125cc,150,355
+P0808,Rear Axle,Drivetrain,100cc,280,380
+P0809,Oil Pump,Engine,100cc,480,363
+P0810,Side Cover,Body/Frame,125cc,1350,126
+P0811,Brake Cable,Braking,125cc,220,224
+P0812,Mudguard Front,Body/Frame,125cc,1150,129
+P0813,Brake Shoe Set,Braking,100cc,380,220
+P0814,Mudguard Front,Body/Frame,125cc,1150,306
+P0815,Handle Grip,Rubber/Misc,125cc,180,415
+P0816,Brake Cable,Braking,100cc,180,128
+P0817,Sprocket Hub,Drivetrain,70cc,480,450
+P0818,Ignition Switch,Electrical,125cc,850,166
+P0819,Ignition Switch,Electrical,100cc,600,312
+P0820,Gasket Kit,Engine,100cc,260,269
+P0821,Piston Kit,Engine,70cc,950,497
+P0822,Brake Shoe Set,Braking,70cc,280,27
+P0823,Oil Pump,Engine,70cc,380,158
+P0824,Ignition Switch,Electrical,70cc,450,275
+P0825,Sprocket Hub,Drivetrain,70cc,480,60
+P0826,Oil Pump,Engine,125cc,680,237
+P0827,Gasket Kit,Engine,70cc,180,310
+P0828,Mudguard Front,Body/Frame,125cc,1150,43
+P0829,Handle Bar,Body/Frame,125cc,850,11
+P0830,Fuel Tank,Body/Frame,125cc,4800,390
+P0831,Headlight Assembly,Electrical,125cc,1250,204
+P0832,Gasket Kit,Engine,100cc,260,462
+P0833,Mudguard Rear,Body/Frame,70cc,600,383
+P0834,Side Cover,Body/Frame,70cc,750,21
+P0835,Spark Plug,Electrical,70cc,350,131
+P0836,Air Cleaner Filter,Rubber/Misc,125cc,320,53
+P0837,Rear Axle,Drivetrain,70cc,220,90
+P0838,Rear Axle,Drivetrain,70cc,220,2
+P0839,Rear Axle,Drivetrain,100cc,280,27
+P0840,Headlight Assembly,Electrical,125cc,1250,52
+P0841,Rear Axle,Drivetrain,70cc,220,323
+P0842,Gasket Kit,Engine,100cc,260,278
+P0843,Sprocket Hub,Drivetrain,125cc,850,34
+P0844,Drive Chain,Drivetrain,100cc,600,132
+P0845,Chain Sprocket Kit,Drivetrain,70cc,1650,21
+P0846,Brake Lever,Braking,100cc,140,155
+P0847,CDI Unit,Electrical,100cc,450,24
+P0848,Oil Pump,Engine,100cc,480,225
+P0849,Drive Chain,Drivetrain,70cc,450,473
+P0850,Oil Pump,Engine,100cc,480,60
+P0851,Air Cleaner Filter,Rubber/Misc,125cc,320,95
+P0852,Mudguard Front,Body/Frame,70cc,550,71
+P0853,Brake Lever,Braking,100cc,140,124
+P0854,Oil Pump,Engine,125cc,680,400
+P0855,Ignition Switch,Electrical,125cc,850,90
+P0856,Clutch Plate Set,Engine,100cc,850,387
+P0857,Brake Shoe Set,Braking,70cc,280,343
+P0858,Brake Cable,Braking,70cc,140,474
+P0859,Footrest Rubber,Rubber/Misc,70cc,120,176
+P0860,Cylinder Block,Engine,100cc,3800,20
+P0861,Indicator Relay,Electrical,70cc,90,279
+P0862,Air Cleaner Filter,Rubber/Misc,125cc,320,294
+P0863,Fuel Tank,Body/Frame,125cc,4800,182
+P0864,Headlight Assembly,Electrical,70cc,550,303
+P0865,Mudguard Rear,Body/Frame,125cc,1100,151
+P0866,Drive Chain,Drivetrain,70cc,450,367
+P0867,Brake Lever,Braking,125cc,180,214
+P0868,Chain Sprocket Kit,Drivetrain,100cc,2150,154
+P0869,Brake Shoe Set,Braking,125cc,550,428
+P0870,Gasket Kit,Engine,125cc,380,151
+P0871,Spark Plug,Electrical,100cc,350,99
+P0872,Air Cleaner Filter,Rubber/Misc,125cc,320,49
+P0873,Headlight Assembly,Electrical,70cc,550,437
+P0874,Brake Shoe Set,Braking,70cc,280,14
+P0875,Sprocket Hub,Drivetrain,70cc,480,494
+P0876,Brake Lever,Braking,125cc,180,248
+P0877,Side Cover,Body/Frame,70cc,750,251
+P0878,Drum Rubber,Rubber/Misc,125cc,220,410
+P0879,Cylinder Block,Engine,70cc,2800,162
+P0880,Chain Sprocket Kit,Drivetrain,125cc,2850,284
+P0881,CDI Unit,Electrical,100cc,450,273
+P0882,Spark Plug,Electrical,125cc,385,402
+P0883,Indicator Relay,Electrical,70cc,90,90
+P0884,Drive Chain,Drivetrain,70cc,450,205
+P0885,Gasket Kit,Engine,125cc,380,114
+P0886,Brake Shoe Set,Braking,70cc,280,293
+P0887,Disc Pad,Braking,100cc,320,196
+P0888,Handle Bar,Body/Frame,125cc,850,241
+P0889,Air Cleaner Filter,Rubber/Misc,100cc,220,367
+P0890,Mudguard Front,Body/Frame,70cc,550,200
+P0891,Handle Grip,Rubber/Misc,70cc,120,184
+P0892,Mudguard Front,Body/Frame,125cc,1150,4
+P0893,Cylinder Block,Engine,125cc,4800,4
+P0894,Brake Shoe Set,Braking,70cc,280,47
+P0895,Rear Axle,Drivetrain,100cc,280,269
+P0896,Gasket Kit,Engine,125cc,380,484
+P0897,CDI Unit,Electrical,100cc,450,490
+P0898,Ignition Switch,Electrical,100cc,600,56
+P0899,Indicator Relay,Electrical,100cc,120,487
+P0900,Drive Chain,Drivetrain,125cc,850,332
+P0901,Fuel Tank,Body/Frame,70cc,2800,290
+P0902,Gasket Kit,Engine,70cc,180,270
+P0903,Handle Grip,Rubber/Misc,125cc,180,418
+P0904,Handle Bar,Body/Frame,125cc,850,8
+P0905,Gasket Kit,Engine,70cc,180,279
+P0906,Footrest Rubber,Rubber/Misc,125cc,160,328
+P0907,Mudguard Front,Body/Frame,70cc,550,20
+P0908,Clutch Plate Set,Engine,100cc,850,340
+P0909,Disc Pad,Braking,125cc,450,47
+P0910,Oil Pump,Engine,125cc,680,13
+P0911,Footrest Rubber,Rubber/Misc,70cc,120,470
+P0912,CDI Unit,Electrical,70cc,320,377
+P0913,Cylinder Block,Engine,100cc,3800,421
+P0914,Mudguard Rear,Body/Frame,100cc,780,208
+P0915,Cylinder Block,Engine,70cc,2800,148
+P0916,Oil Pump,Engine,125cc,680,177
+P0917,Brake Cable,Braking,70cc,140,278
+P0918,Footrest Rubber,Rubber/Misc,70cc,120,250
+P0919,Disc Pad,Braking,125cc,450,273
+P0920,Footrest Rubber,Rubber/Misc,125cc,160,246
+P0921,Mudguard Rear,Body/Frame,100cc,780,60
+P0922,Footrest Rubber,Rubber/Misc,125cc,160,9
+P0923,Indicator Relay,Electrical,70cc,90,196
+P0924,CDI Unit,Electrical,125cc,650,400
+P0925,Drive Chain,Drivetrain,100cc,600,178
+P0926,Rear Axle,Drivetrain,70cc,220,4
+P0927,Handle Grip,Rubber/Misc,100cc,150,251
+P0928,Side Cover,Body/Frame,70cc,750,321
+P0929,Drive Chain,Drivetrain,70cc,450,475
+P0930,Handle Bar,Body/Frame,100cc,650,208
+P0931,Mudguard Rear,Body/Frame,125cc,1100,99
+P0932,Indicator Relay,Electrical,70cc,90,14
+P0933,Brake Lever,Braking,125cc,180,225
+P0934,Indicator Relay,Electrical,100cc,120,296
+P0935,Brake Shoe Set,Braking,125cc,550,407
+P0936,Brake Shoe Set,Braking,100cc,380,495
+P0937,Brake Lever,Braking,125cc,180,469
+P0938,Drive Chain,Drivetrain,70cc,450,194
+P0939,Indicator Relay,Electrical,70cc,90,377
+P0940,Drum Rubber,Rubber/Misc,100cc,160,220
+P0941,Chain Sprocket Kit,Drivetrain,125cc,2850,24
+P0942,Air Cleaner Filter,Rubber/Misc,100cc,220,363
+P0943,Chain Sprocket Kit,Drivetrain,70cc,1650,245
+P0944,Brake Cable,Braking,100cc,180,396
+P0945,Brake Lever,Braking,125cc,180,167
+P0946,CDI Unit,Electrical,70cc,320,143
+P0947,Drive Chain,Drivetrain,125cc,850,463
+P0948,Rear Axle,Drivetrain,125cc,380,405
+P0949,Gasket Kit,Engine,100cc,260,365
+P0950,Indicator Relay,Electrical,70cc,90,315
+P0951,Oil Pump,Engine,100cc,480,237
+P0952,CDI Unit,Electrical,125cc,650,301
+P0953,Air Cleaner Filter,Rubber/Misc,100cc,220,241
+P0954,Handle Bar,Body/Frame,100cc,650,461
+P0955,Disc Pad,Braking,125cc,450,471
+P0956,Side Cover,Body/Frame,70cc,750,425
+P0957,Footrest Rubber,Rubber/Misc,70cc,120,242
+P0958,Footrest Rubber,Rubber/Misc,125cc,160,275
+P0959,Spark Plug,Electrical,100cc,350,12
+P0960,Sprocket Hub,Drivetrain,125cc,850,483
+P0961,Brake Cable,Braking,70cc,140,459
+P0962,Rear Axle,Drivetrain,100cc,280,85
+P0963,Mudguard Front,Body/Frame,125cc,1150,192
+P0964,Oil Pump,Engine,100cc,480,205
+P0965,Cylinder Block,Engine,70cc,2800,446
+P0966,Sprocket Hub,Drivetrain,70cc,480,100
+P0967,Rear Axle,Drivetrain,70cc,220,171
+P0968,Oil Pump,Engine,125cc,680,116
+P0969,Fuel Tank,Body/Frame,70cc,2800,243
+P0970,Headlight Assembly,Electrical,70cc,550,422
+P0971,Drive Chain,Drivetrain,125cc,850,378
+P0972,Mudguard Front,Body/Frame,100cc,750,190
+P0973,Handle Grip,Rubber/Misc,70cc,120,136
+P0974,Cylinder Block,Engine,125cc,4800,409
+P0975,Handle Grip,Rubber/Misc,70cc,120,301
+P0976,CDI Unit,Electrical,125cc,650,153
+P0977,Brake Shoe Set,Braking,70cc,280,161
+P0978,Gasket Kit,Engine,125cc,380,328
+P0979,Cylinder Block,Engine,100cc,3800,273
+P0980,Mudguard Rear,Body/Frame,125cc,1100,282
+P0981,Brake Lever,Braking,100cc,140,11
+P0982,Brake Cable,Braking,70cc,140,385
+P0983,Sprocket Hub,Drivetrain,70cc,480,134
+P0984,Chain Sprocket Kit,Drivetrain,100cc,2150,157
+P0985,Drive Chain,Drivetrain,125cc,850,255
+P0986,Side Cover,Body/Frame,125cc,1350,265
+P0987,Rear Axle,Drivetrain,100cc,280,338
+P0988,Fuel Tank,Body/Frame,100cc,3600,181
+P0989,Headlight Assembly,Electrical,125cc,1250,396
+P0990,Rear Axle,Drivetrain,100cc,280,396
+P0991,Brake Lever,Braking,100cc,140,430
+P0992,Mudguard Front,Body/Frame,125cc,1150,0
+P0993,Spark Plug,Electrical,100cc,350,174
+P0994,Rear Axle,Drivetrain,70cc,220,248
+P0995,Handle Bar,Body/Frame,100cc,650,77
+P0996,Chain Sprocket Kit,Drivetrain,70cc,1650,403
+P0997,Brake Shoe Set,Braking,100cc,380,469
+P0998,CDI Unit,Electrical,100cc,450,348
+P0999,Rear Axle,Drivetrain,125cc,380,106
+P1000,Piston Kit,Engine,70cc,950,272
+P1001,Mudguard Front,Body/Frame,125cc,1150,403
+P1002,Fuel Tank,Body/Frame,70cc,2800,360
+P1003,Cylinder Block,Engine,70cc,2800,348
+P1004,Brake Cable,Braking,100cc,180,296
+P1005,Clutch Plate Set,Engine,100cc,850,308
+P1006,Chain Sprocket Kit,Drivetrain,125cc,2850,499
+P1007,Footrest Rubber,Rubber/Misc,125cc,160,185
+P1008,Clutch Plate Set,Engine,100cc,850,500
+P1009,Brake Cable,Braking,70cc,140,220
+P1010,Mudguard Front,Body/Frame,100cc,750,102
+P1011,Chain Sprocket Kit,Drivetrain,70cc,1650,80
+P1012,Brake Shoe Set,Braking,70cc,280,386
+P1013,Cylinder Block,Engine,100cc,3800,319
+P1014,Rear Axle,Drivetrain,100cc,280,407
+P1015,Indicator Relay,Electrical,125cc,150,208
+P1016,Ignition Switch,Electrical,70cc,450,400
+P1017,Clutch Plate Set,Engine,125cc,2200,110
+P1018,Side Cover,Body/Frame,100cc,950,138
+P1019,Mudguard Front,Body/Frame,125cc,1150,133
+P1020,Gasket Kit,Engine,125cc,380,253
+P1021,Footrest Rubber,Rubber/Misc,70cc,120,15
+P1022,Clutch Plate Set,Engine,70cc,550,179
+P1023,Chain Sprocket Kit,Drivetrain,70cc,1650,73
+P1024,Drum Rubber,Rubber/Misc,125cc,220,197
+P1025,Fuel Tank,Body/Frame,70cc,2800,359
+P1026,Piston Kit,Engine,70cc,950,410
+P1027,CDI Unit,Electrical,70cc,320,326
+P1028,Drive Chain,Drivetrain,70cc,450,208
+P1029,Ignition Switch,Electrical,70cc,450,199
+P1030,Handle Bar,Body/Frame,100cc,650,159
+P1031,Piston Kit,Engine,70cc,950,290
+P1032,CDI Unit,Electrical,125cc,650,138
+P1033,Air Cleaner Filter,Rubber/Misc,70cc,160,442
+P1034,Drive Chain,Drivetrain,125cc,850,439
+P1035,Drum Rubber,Rubber/Misc,100cc,160,239
+P1036,Footrest Rubber,Rubber/Misc,100cc,140,433
+P1037,Handle Grip,Rubber/Misc,70cc,120,176
+P1038,Rear Axle,Drivetrain,70cc,220,302
+P1039,Chain Sprocket Kit,Drivetrain,100cc,2150,192
+P1040,Disc Pad,Braking,125cc,450,53
+P1041,Chain Sprocket Kit,Drivetrain,70cc,1650,310
+P1042,Spark Plug,Electrical,70cc,350,485
+P1043,Cylinder Block,Engine,100cc,3800,384
+P1044,Side Cover,Body/Frame,100cc,950,500
+P1045,Gasket Kit,Engine,100cc,260,141
+P1046,Brake Shoe Set,Braking,100cc,380,222
+P1047,CDI Unit,Electrical,70cc,320,409
+P1048,Footrest Rubber,Rubber/Misc,125cc,160,115
+P1049,Fuel Tank,Body/Frame,125cc,4800,36
+P1050,Gasket Kit,Engine,70cc,180,371
+P1051,Sprocket Hub,Drivetrain,70cc,480,417
+P1052,Indicator Relay,Electrical,70cc,90,225
+P1053,Clutch Plate Set,Engine,125cc,2200,396
+P1054,Ignition Switch,Electrical,125cc,850,152
+P1055,Rear Axle,Drivetrain,70cc,220,152
+P1056,Handle Grip,Rubber/Misc,70cc,120,399
+P1057,Drive Chain,Drivetrain,100cc,600,159
+P1058,Disc Pad,Braking,125cc,450,177
+P1059,Footrest Rubber,Rubber/Misc,70cc,120,199
+P1060,Spark Plug,Electrical,125cc,385,162
+P1061,Spark Plug,Electrical,100cc,350,484
+P1062,Rear Axle,Drivetrain,70cc,220,426
+P1063,Footrest Rubber,Rubber/Misc,125cc,160,165
+P1064,Cylinder Block,Engine,100cc,3800,219
+P1065,Air Cleaner Filter,Rubber/Misc,125cc,320,32
+P1066,Drive Chain,Drivetrain,70cc,450,480
+P1067,Gasket Kit,Engine,100cc,260,339
+P1068,Brake Shoe Set,Braking,125cc,550,373
+P1069,Headlight Assembly,Electrical,100cc,750,487
+P1070,Chain Sprocket Kit,Drivetrain,70cc,1650,94
+P1071,Rear Axle,Drivetrain,70cc,220,121
+P1072,Gasket Kit,Engine,70cc,180,271
+P1073,Drive Chain,Drivetrain,100cc,600,148
+P1074,Indicator Relay,Electrical,125cc,150,276
+P1075,Mudguard Rear,Body/Frame,125cc,1100,167
+P1076,Rear Axle,Drivetrain,125cc,380,192
+P1077,Chain Sprocket Kit,Drivetrain,70cc,1650,362
+P1078,Cylinder Block,Engine,100cc,3800,284
+P1079,Brake Cable,Braking,125cc,220,153
+P1080,Disc Pad,Braking,125cc,450,5
+P1081,Brake Cable,Braking,100cc,180,349
+P1082,Drum Rubber,Rubber/Misc,125cc,220,491
+P1083,CDI Unit,Electrical,70cc,320,437
+P1084,Air Cleaner Filter,Rubber/Misc,100cc,220,479
+P1085,Oil Pump,Engine,70cc,380,153
+P1086,Mudguard Rear,Body/Frame,100cc,780,471
+P1087,Handle Bar,Body/Frame,100cc,650,53
+P1088,Brake Lever,Braking,125cc,180,114
+P1089,Handle Bar,Body/Frame,100cc,650,439
+P1090,Handle Bar,Body/Frame,70cc,500,288
+P1091,Footrest Rubber,Rubber/Misc,70cc,120,152
+P1092,Gasket Kit,Engine,100cc,260,105
+P1093,Indicator Relay,Electrical,125cc,150,454
+P1094,Drum Rubber,Rubber/Misc,100cc,160,398
+P1095,CDI Unit,Electrical,70cc,320,342
+P1096,Air Cleaner Filter,Rubber/Misc,125cc,320,393
+P1097,Drive Chain,Drivetrain,100cc,600,136
+P1098,CDI Unit,Electrical,100cc,450,93
+P1099,Drive Chain,Drivetrain,100cc,600,467
+P1100,Drum Rubber,Rubber/Misc,70cc,120,424
+P1101,Mudguard Rear,Body/Frame,70cc,600,224
+P1102,Drum Rubber,Rubber/Misc,100cc,160,436
+P1103,Handle Grip,Rubber/Misc,100cc,150,380
+P1104,Clutch Plate Set,Engine,70cc,550,12
+P1105,Side Cover,Body/Frame,100cc,950,114
+P1106,Ignition Switch,Electrical,125cc,850,350
+P1107,Chain Sprocket Kit,Drivetrain,70cc,1650,31
+P1108,Gasket Kit,Engine,125cc,380,302
+P1109,Brake Shoe Set,Braking,70cc,280,415
+P1110,Mudguard Rear,Body/Frame,125cc,1100,324
+P1111,Fuel Tank,Body/Frame,100cc,3600,489
+P1112,Spark Plug,Electrical,100cc,350,410
+P1113,Footrest Rubber,Rubber/Misc,100cc,140,208
+P1114,Chain Sprocket Kit,Drivetrain,70cc,1650,326
+P1115,Disc Pad,Braking,125cc,450,439
+P1116,Disc Pad,Braking,70cc,250,194
+P1117,Disc Pad,Braking,100cc,320,252
+P1118,Mudguard Rear,Body/Frame,70cc,600,181
+P1119,Sprocket Hub,Drivetrain,125cc,850,414
+P1120,Brake Shoe Set,Braking,125cc,550,18
+P1121,Oil Pump,Engine,125cc,680,67
+P1122,Ignition Switch,Electrical,100cc,600,261
+P1123,Cylinder Block,Engine,70cc,2800,412
+P1124,Fuel Tank,Body/Frame,125cc,4800,132
+P1125,Sprocket Hub,Drivetrain,100cc,620,2
+P1126,Brake Shoe Set,Braking,125cc,550,252
+P1127,Brake Shoe Set,Braking,125cc,550,24
+P1128,Disc Pad,Braking,125cc,450,11
+P1129,Piston Kit,Engine,100cc,1350,283
+P1130,Headlight Assembly,Electrical,70cc,550,44
+P1131,Brake Lever,Braking,125cc,180,493
+P1132,Disc Pad,Braking,100cc,320,293
+P1133,Clutch Plate Set,Engine,125cc,2200,360
+P1134,Brake Cable,Braking,100cc,180,18
+P1135,Drum Rubber,Rubber/Misc,100cc,160,175
+P1136,Mudguard Rear,Body/Frame,70cc,600,476
+P1137,Mudguard Rear,Body/Frame,70cc,600,208
+P1138,Gasket Kit,Engine,100cc,260,457
+P1139,Cylinder Block,Engine,100cc,3800,454
+P1140,Drive Chain,Drivetrain,70cc,450,178
+P1141,Clutch Plate Set,Engine,125cc,2200,265
+P1142,Handle Grip,Rubber/Misc,100cc,150,244
+P1143,Indicator Relay,Electrical,100cc,120,105
+P1144,Ignition Switch,Electrical,100cc,600,345
+P1145,Footrest Rubber,Rubber/Misc,100cc,140,455
+P1146,Spark Plug,Electrical,70cc,350,177
+P1147,Ignition Switch,Electrical,100cc,600,67
+P1148,Clutch Plate Set,Engine,100cc,850,171
+P1149,Sprocket Hub,Drivetrain,100cc,620,22
+P1150,Spark Plug,Electrical,125cc,385,83
+P1151,Oil Pump,Engine,70cc,380,237
+P1152,Indicator Relay,Electrical,125cc,150,288
+P1153,Side Cover,Body/Frame,70cc,750,95
+P1154,Chain Sprocket Kit,Drivetrain,70cc,1650,131
+P1155,Handle Bar,Body/Frame,100cc,650,353
+P1156,Oil Pump,Engine,100cc,480,370
+P1157,Spark Plug,Electrical,70cc,350,458
+P1158,Sprocket Hub,Drivetrain,100cc,620,171
+P1159,Brake Lever,Braking,70cc,120,167
+P1160,Mudguard Rear,Body/Frame,125cc,1100,307
+P1161,Sprocket Hub,Drivetrain,70cc,480,201
+P1162,Drum Rubber,Rubber/Misc,125cc,220,248
+P1163,Handle Grip,Rubber/Misc,70cc,120,133
+P1164,Piston Kit,Engine,100cc,1350,364
+P1165,Sprocket Hub,Drivetrain,125cc,850,283
+P1166,Rear Axle,Drivetrain,125cc,380,214
+P1167,Spark Plug,Electrical,70cc,350,499
+P1168,Drive Chain,Drivetrain,125cc,850,218
+P1169,Side Cover,Body/Frame,100cc,950,231
+P1170,Rear Axle,Drivetrain,70cc,220,195
+P1171,Piston Kit,Engine,70cc,950,61
+P1172,Mudguard Front,Body/Frame,70cc,550,68
+P1173,Rear Axle,Drivetrain,100cc,280,282
+P1174,Fuel Tank,Body/Frame,100cc,3600,475
+P1175,Drum Rubber,Rubber/Misc,70cc,120,191
+P1176,Drum Rubber,Rubber/Misc,70cc,120,391
+P1177,CDI Unit,Electrical,70cc,320,462
+P1178,Rear Axle,Drivetrain,70cc,220,183
+P1179,Fuel Tank,Body/Frame,100cc,3600,195
+P1180,Drive Chain,Drivetrain,100cc,600,476
+P1181,Spark Plug,Electrical,100cc,350,181
+P1182,Drive Chain,Drivetrain,125cc,850,250
+P1183,Clutch Plate Set,Engine,70cc,550,89
+P1184,Spark Plug,Electrical,100cc,350,95
+P1185,Chain Sprocket Kit,Drivetrain,70cc,1650,224
+P1186,Handle Grip,Rubber/Misc,70cc,120,310
+P1187,Mudguard Rear,Body/Frame,125cc,1100,23
+P1188,Sprocket Hub,Drivetrain,100cc,620,498
+P1189,Ignition Switch,Electrical,70cc,450,240
+P1190,Disc Pad,Braking,100cc,320,480
+P1191,Mudguard Rear,Body/Frame,70cc,600,444
+P1192,Sprocket Hub,Drivetrain,100cc,620,152
+P1193,Cylinder Block,Engine,125cc,4800,105
+P1194,Handle Grip,Rubber/Misc,125cc,180,331
+P1195,Brake Shoe Set,Braking,100cc,380,313
+P1196,Handle Bar,Body/Frame,100cc,650,252
+P1197,Spark Plug,Electrical,70cc,350,463
+P1198,Drive Chain,Drivetrain,70cc,450,108
+P1199,Drive Chain,Drivetrain,70cc,450,386
+P1200,Drum Rubber,Rubber/Misc,125cc,220,47
+P1201,Fuel Tank,Body/Frame,70cc,2800,90
+P1202,Oil Pump,Engine,125cc,680,336
+P1203,CDI Unit,Electrical,70cc,320,283
+P1204,Piston Kit,Engine,70cc,950,203
+P1205,Handle Bar,Body/Frame,100cc,650,228
+P1206,Mudguard Front,Body/Frame,70cc,550,223
+P1207,Mudguard Front,Body/Frame,70cc,550,446
+P1208,Disc Pad,Braking,125cc,450,134
+P1209,Brake Lever,Braking,125cc,180,360
+P1210,Sprocket Hub,Drivetrain,125cc,850,313
+P1211,Footrest Rubber,Rubber/Misc,70cc,120,100
+P1212,Side Cover,Body/Frame,100cc,950,310
+P1213,Disc Pad,Braking,100cc,320,482
+P1214,Brake Lever,Braking,70cc,120,141
+P1215,Oil Pump,Engine,70cc,380,103
+P1216,Air Cleaner Filter,Rubber/Misc,70cc,160,370
+P1217,Drive Chain,Drivetrain,125cc,850,239
+P1218,Spark Plug,Electrical,125cc,385,11
+P1219,Handle Grip,Rubber/Misc,70cc,120,111
+P1220,Clutch Plate Set,Engine,100cc,850,275
+P1221,Handle Bar,Body/Frame,100cc,650,33
+P1222,Mudguard Front,Body/Frame,70cc,550,9
+P1223,Handle Grip,Rubber/Misc,100cc,150,339
+P1224,Drive Chain,Drivetrain,100cc,600,63
+P1225,Fuel Tank,Body/Frame,125cc,4800,235
+P1226,Brake Lever,Braking,100cc,140,417
+P1227,Handle Grip,Rubber/Misc,125cc,180,249
+P1228,Indicator Relay,Electrical,125cc,150,221
+P1229,Footrest Rubber,Rubber/Misc,70cc,120,129
+P1230,Piston Kit,Engine,125cc,1850,450
+P1231,Brake Cable,Braking,100cc,180,373
+P1232,Mudguard Rear,Body/Frame,125cc,1100,190
+P1233,Spark Plug,Electrical,100cc,350,499
+P1234,Ignition Switch,Electrical,70cc,450,322
+P1235,Air Cleaner Filter,Rubber/Misc,125cc,320,254
+P1236,Headlight Assembly,Electrical,125cc,1250,58
+P1237,Cylinder Block,Engine,125cc,4800,381
+P1238,Drum Rubber,Rubber/Misc,70cc,120,222
+P1239,Headlight Assembly,Electrical,125cc,1250,106
+P1240,Mudguard Front,Body/Frame,70cc,550,443
+P1241,Oil Pump,Engine,100cc,480,247
+P1242,Spark Plug,Electrical,70cc,350,27
+P1243,Piston Kit,Engine,70cc,950,37
+P1244,Drum Rubber,Rubber/Misc,70cc,120,350
+P1245,Headlight Assembly,Electrical,125cc,1250,385
+P1246,Drive Chain,Drivetrain,100cc,600,270
+P1247,Spark Plug,Electrical,125cc,385,38
+P1248,CDI Unit,Electrical,125cc,650,376
+P1249,Footrest Rubber,Rubber/Misc,100cc,140,394
+P1250,Ignition Switch,Electrical,100cc,600,252
+P1251,Rear Axle,Drivetrain,100cc,280,126
+P1252,CDI Unit,Electrical,70cc,320,352
+P1253,Ignition Switch,Electrical,100cc,600,59
+P1254,Oil Pump,Engine,125cc,680,463
+P1255,Air Cleaner Filter,Rubber/Misc,70cc,160,97
+P1256,Spark Plug,Electrical,100cc,350,215
+P1257,CDI Unit,Electrical,125cc,650,302
+P1258,Cylinder Block,Engine,70cc,2800,43
+P1259,Clutch Plate Set,Engine,70cc,550,495
+P1260,Mudguard Rear,Body/Frame,70cc,600,354
+P1261,Mudguard Front,Body/Frame,70cc,550,375
+P1262,Handle Bar,Body/Frame,70cc,500,479
+P1263,Ignition Switch,Electrical,70cc,450,387
+P1264,Disc Pad,Braking,70cc,250,276
+P1265,Mudguard Front,Body/Frame,100cc,750,382
+P1266,Footrest Rubber,Rubber/Misc,70cc,120,322
+P1267,Spark Plug,Electrical,125cc,385,368
+P1268,Fuel Tank,Body/Frame,125cc,4800,436
+P1269,Ignition Switch,Electrical,70cc,450,127
+P1270,Ignition Switch,Electrical,125cc,850,447
+P1271,Handle Grip,Rubber/Misc,125cc,180,296
+P1272,Sprocket Hub,Drivetrain,70cc,480,403
+P1273,Clutch Plate Set,Engine,125cc,2200,354
+P1274,Footrest Rubber,Rubber/Misc,125cc,160,233
+P1275,Handle Grip,Rubber/Misc,100cc,150,77
+P1276,Spark Plug,Electrical,125cc,385,273
+P1277,CDI Unit,Electrical,100cc,450,409
+P1278,Brake Lever,Braking,70cc,120,28
+P1279,Drive Chain,Drivetrain,125cc,850,270
+P1280,Drum Rubber,Rubber/Misc,100cc,160,256
+P1281,Rear Axle,Drivetrain,125cc,380,81
+P1282,Spark Plug,Electrical,100cc,350,290
+P1283,Chain Sprocket Kit,Drivetrain,70cc,1650,4
+P1284,Indicator Relay,Electrical,70cc,90,201
+P1285,Side Cover,Body/Frame,125cc,1350,304
+P1286,Footrest Rubber,Rubber/Misc,125cc,160,329
+P1287,Clutch Plate Set,Engine,100cc,850,357
+P1288,Side Cover,Body/Frame,100cc,950,175
+P1289,CDI Unit,Electrical,100cc,450,427
+P1290,Clutch Plate Set,Engine,100cc,850,448
+P1291,Cylinder Block,Engine,125cc,4800,469
+P1292,Drum Rubber,Rubber/Misc,100cc,160,43
+P1293,Ignition Switch,Electrical,70cc,450,15
+P1294,Side Cover,Body/Frame,125cc,1350,443
+P1295,Oil Pump,Engine,100cc,480,343
+P1296,Cylinder Block,Engine,100cc,3800,15
+P1297,Brake Lever,Braking,125cc,180,350
+P1298,Disc Pad,Braking,70cc,250,237
+P1299,CDI Unit,Electrical,100cc,450,36
+P1300,Rear Axle,Drivetrain,125cc,380,37
+P1301,Chain Sprocket Kit,Drivetrain,125cc,2850,191
+P1302,Chain Sprocket Kit,Drivetrain,70cc,1650,103
+P1303,Side Cover,Body/Frame,100cc,950,411
+P1304,Cylinder Block,Engine,100cc,3800,402
+P1305,Air Cleaner Filter,Rubber/Misc,70cc,160,261
+P1306,Footrest Rubber,Rubber/Misc,70cc,120,384
+P1307,Drive Chain,Drivetrain,100cc,600,216
+P1308,Cylinder Block,Engine,70cc,2800,304
+P1309,Air Cleaner Filter,Rubber/Misc,125cc,320,426
+P1310,Brake Lever,Braking,125cc,180,65
+P1311,Mudguard Front,Body/Frame,70cc,550,331
+P1312,Rear Axle,Drivetrain,70cc,220,223
+P1313,Clutch Plate Set,Engine,100cc,850,168
+P1314,CDI Unit,Electrical,125cc,650,310
+P1315,Mudguard Rear,Body/Frame,100cc,780,493
+P1316,Chain Sprocket Kit,Drivetrain,70cc,1650,158
+P1317,Air Cleaner Filter,Rubber/Misc,125cc,320,337
+P1318,Air Cleaner Filter,Rubber/Misc,125cc,320,90
+P1319,Footrest Rubber,Rubber/Misc,125cc,160,184
+P1320,Brake Cable,Braking,125cc,220,84
+P1321,Air Cleaner Filter,Rubber/Misc,125cc,320,289
+P1322,Fuel Tank,Body/Frame,125cc,4800,137
+P1323,Cylinder Block,Engine,125cc,4800,376
+P1324,Rear Axle,Drivetrain,70cc,220,4
+P1325,Air Cleaner Filter,Rubber/Misc,125cc,320,325
+P1326,Drum Rubber,Rubber/Misc,70cc,120,424
+P1327,CDI Unit,Electrical,125cc,650,439
+P1328,Cylinder Block,Engine,125cc,4800,65
+P1329,Drum Rubber,Rubber/Misc,125cc,220,379
+P1330,Oil Pump,Engine,100cc,480,463
+P1331,Ignition Switch,Electrical,125cc,850,317
+P1332,Handle Grip,Rubber/Misc,125cc,180,16
+P1333,Brake Cable,Braking,100cc,180,130
+P1334,Handle Bar,Body/Frame,125cc,850,444
+P1335,Sprocket Hub,Drivetrain,100cc,620,369
+P1336,Brake Shoe Set,Braking,70cc,280,190
+P1337,Footrest Rubber,Rubber/Misc,100cc,140,133
+P1338,CDI Unit,Electrical,100cc,450,488
+P1339,Brake Cable,Braking,70cc,140,231
+P1340,Spark Plug,Electrical,125cc,385,230
+P1341,Ignition Switch,Electrical,125cc,850,256
+P1342,CDI Unit,Electrical,125cc,650,478
+P1343,Disc Pad,Braking,70cc,250,122
+P1344,Brake Shoe Set,Braking,100cc,380,348
+P1345,Indicator Relay,Electrical,125cc,150,244
+P1346,Clutch Plate Set,Engine,125cc,2200,149
+P1347,Drum Rubber,Rubber/Misc,70cc,120,162
+P1348,Air Cleaner Filter,Rubber/Misc,70cc,160,334
+P1349,Handle Bar,Body/Frame,125cc,850,449
+P1350,Side Cover,Body/Frame,100cc,950,202
+P1351,Drive Chain,Drivetrain,125cc,850,422
+P1352,Disc Pad,Braking,70cc,250,323
+P1353,Mudguard Rear,Body/Frame,125cc,1100,311
+P1354,Rear Axle,Drivetrain,70cc,220,109
+P1355,Mudguard Front,Body/Frame,100cc,750,475
+P1356,Side Cover,Body/Frame,100cc,950,490
+P1357,Mudguard Rear,Body/Frame,100cc,780,244
+P1358,Rear Axle,Drivetrain,70cc,220,384
+P1359,Rear Axle,Drivetrain,70cc,220,31
+P1360,Gasket Kit,Engine,100cc,260,4
+P1361,Ignition Switch,Electrical,125cc,850,148
+P1362,Ignition Switch,Electrical,70cc,450,23
+P1363,Cylinder Block,Engine,125cc,4800,56
+P1364,Side Cover,Body/Frame,70cc,750,342
+P1365,Side Cover,Body/Frame,100cc,950,416
+P1366,Chain Sprocket Kit,Drivetrain,100cc,2150,69
+P1367,Brake Shoe Set,Braking,100cc,380,481
+P1368,Air Cleaner Filter,Rubber/Misc,100cc,220,363
+P1369,Side Cover,Body/Frame,125cc,1350,275
+P1370,Spark Plug,Electrical,125cc,385,160
+P1371,Rear Axle,Drivetrain,125cc,380,448
+P1372,Chain Sprocket Kit,Drivetrain,100cc,2150,105
+P1373,Mudguard Front,Body/Frame,70cc,550,87
+P1374,Ignition Switch,Electrical,100cc,600,112
+P1375,Gasket Kit,Engine,125cc,380,327
+P1376,Drive Chain,Drivetrain,100cc,600,309
+P1377,Drum Rubber,Rubber/Misc,70cc,120,422
+P1378,Handle Grip,Rubber/Misc,125cc,180,97
+P1379,Indicator Relay,Electrical,70cc,90,422
+P1380,Handle Grip,Rubber/Misc,100cc,150,400
+P1381,Footrest Rubber,Rubber/Misc,100cc,140,452
+P1382,Side Cover,Body/Frame,100cc,950,43
+P1383,CDI Unit,Electrical,125cc,650,308
+P1384,Piston Kit,Engine,100cc,1350,420
+P1385,Headlight Assembly,Electrical,125cc,1250,132
+P1386,Indicator Relay,Electrical,100cc,120,263
+P1387,Brake Shoe Set,Braking,100cc,380,303
+P1388,Brake Shoe Set,Braking,70cc,280,232
+P1389,Disc Pad,Braking,100cc,320,458
+P1390,Footrest Rubber,Rubber/Misc,70cc,120,397
+P1391,Indicator Relay,Electrical,125cc,150,189
+P1392,Rear Axle,Drivetrain,70cc,220,116
+P1393,Air Cleaner Filter,Rubber/Misc,100cc,220,421
+P1394,Fuel Tank,Body/Frame,100cc,3600,446
+P1395,Mudguard Front,Body/Frame,100cc,750,221
+P1396,Headlight Assembly,Electrical,100cc,750,75
+P1397,Gasket Kit,Engine,70cc,180,156
+P1398,Disc Pad,Braking,125cc,450,51
+P1399,Footrest Rubber,Rubber/Misc,125cc,160,432
+P1400,Chain Sprocket Kit,Drivetrain,125cc,2850,91
+P1401,Brake Cable,Braking,100cc,180,3
+P1402,Brake Cable,Braking,70cc,140,218
+P1403,Headlight Assembly,Electrical,125cc,1250,143
+P1404,Oil Pump,Engine,100cc,480,499
+P1405,Chain Sprocket Kit,Drivetrain,70cc,1650,163
+P1406,Brake Shoe Set,Braking,70cc,280,240
+P1407,Spark Plug,Electrical,125cc,385,345
+P1408,Clutch Plate Set,Engine,100cc,850,363
+P1409,Disc Pad,Braking,125cc,450,178
+P1410,Sprocket Hub,Drivetrain,100cc,620,214
+P1411,Brake Shoe Set,Braking,100cc,380,188
+P1412,Brake Shoe Set,Braking,125cc,550,448
+P1413,Cylinder Block,Engine,125cc,4800,73
+P1414,Spark Plug,Electrical,70cc,350,402
+P1415,Gasket Kit,Engine,70cc,180,53
+P1416,Mudguard Front,Body/Frame,70cc,550,204
+P1417,Mudguard Rear,Body/Frame,70cc,600,58
+P1418,Headlight Assembly,Electrical,100cc,750,207
+P1419,Handle Bar,Body/Frame,100cc,650,405
+P1420,Chain Sprocket Kit,Drivetrain,100cc,2150,494
+P1421,Gasket Kit,Engine,70cc,180,385
+P1422,Oil Pump,Engine,125cc,680,354
+P1423,Chain Sprocket Kit,Drivetrain,100cc,2150,479
+P1424,Oil Pump,Engine,125cc,680,108
+P1425,Oil Pump,Engine,70cc,380,297
+P1426,Ignition Switch,Electrical,70cc,450,160
+P1427,Disc Pad,Braking,70cc,250,411
+P1428,Mudguard Rear,Body/Frame,70cc,600,172
+P1429,Handle Bar,Body/Frame,125cc,850,151
+P1430,Handle Grip,Rubber/Misc,125cc,180,231
+P1431,Brake Cable,Braking,100cc,180,116
+P1432,Indicator Relay,Electrical,100cc,120,230
+P1433,Brake Cable,Braking,100cc,180,102
+P1434,Indicator Relay,Electrical,70cc,90,33
+P1435,Brake Cable,Braking,125cc,220,157
+P1436,Drum Rubber,Rubber/Misc,70cc,120,302
+P1437,Footrest Rubber,Rubber/Misc,70cc,120,183
+P1438,Handle Grip,Rubber/Misc,100cc,150,421
+P1439,Sprocket Hub,Drivetrain,100cc,620,434
+P1440,Clutch Plate Set,Engine,70cc,550,482
+P1441,Handle Bar,Body/Frame,70cc,500,63
+P1442,Fuel Tank,Body/Frame,100cc,3600,130
+P1443,Mudguard Front,Body/Frame,100cc,750,115
+P1444,Brake Lever,Braking,100cc,140,375
+P1445,Brake Lever,Braking,100cc,140,273
+P1446,Spark Plug,Electrical,100cc,350,285
+P1447,Sprocket Hub,Drivetrain,70cc,480,256
+P1448,Clutch Plate Set,Engine,100cc,850,159
+P1449,Gasket Kit,Engine,125cc,380,446
+P1450,Disc Pad,Braking,100cc,320,173
+P1451,Drum Rubber,Rubber/Misc,125cc,220,46
+P1452,Brake Lever,Braking,125cc,180,160
+P1453,Spark Plug,Electrical,70cc,350,417
+P1454,CDI Unit,Electrical,70cc,320,27
+P1455,Handle Bar,Body/Frame,70cc,500,206
+P1456,Brake Shoe Set,Braking,125cc,550,456
+P1457,Air Cleaner Filter,Rubber/Misc,100cc,220,32
+P1458,Clutch Plate Set,Engine,70cc,550,366
+P1459,Disc Pad,Braking,125cc,450,370
+P1460,Drum Rubber,Rubber/Misc,125cc,220,340
+P1461,Sprocket Hub,Drivetrain,70cc,480,132
+P1462,Handle Bar,Body/Frame,125cc,850,96
+P1463,Handle Bar,Body/Frame,70cc,500,274
+P1464,Drum Rubber,Rubber/Misc,70cc,120,483
+P1465,Fuel Tank,Body/Frame,125cc,4800,40
+P1466,Brake Shoe Set,Braking,125cc,550,459
+P1467,Sprocket Hub,Drivetrain,125cc,850,116
+P1468,Oil Pump,Engine,125cc,680,427
+P1469,Oil Pump,Engine,125cc,680,82
+P1470,Brake Cable,Braking,125cc,220,245
+P1471,Handle Bar,Body/Frame,70cc,500,282
+P1472,Side Cover,Body/Frame,125cc,1350,49
+P1473,Chain Sprocket Kit,Drivetrain,70cc,1650,150
+P1474,Headlight Assembly,Electrical,125cc,1250,114
+P1475,Oil Pump,Engine,70cc,380,159
+P1476,Brake Cable,Braking,125cc,220,424
+P1477,CDI Unit,Electrical,70cc,320,302
+P1478,Piston Kit,Engine,70cc,950,56
+P1479,Air Cleaner Filter,Rubber/Misc,125cc,320,167
+P1480,Fuel Tank,Body/Frame,70cc,2800,338
+P1481,Clutch Plate Set,Engine,70cc,550,54
+P1482,Cylinder Block,Engine,100cc,3800,383
+P1483,Footrest Rubber,Rubber/Misc,125cc,160,227
+P1484,Gasket Kit,Engine,100cc,260,458
+P1485,Spark Plug,Electrical,125cc,385,281
+P1486,Clutch Plate Set,Engine,125cc,2200,36
+P1487,Footrest Rubber,Rubber/Misc,70cc,120,138
+P1488,Chain Sprocket Kit,Drivetrain,70cc,1650,188
+P1489,Headlight Assembly,Electrical,100cc,750,228
+P1490,Drum Rubber,Rubber/Misc,70cc,120,90
+P1491,Disc Pad,Braking,125cc,450,455
+P1492,CDI Unit,Electrical,125cc,650,433
+P1493,Headlight Assembly,Electrical,70cc,550,489
+P1494,Brake Shoe Set,Braking,100cc,380,70
+P1495,Footrest Rubber,Rubber/Misc,70cc,120,67
+P1496,Handle Bar,Body/Frame,70cc,500,9
+P1497,Brake Cable,Braking,125cc,220,386
+P1498,Cylinder Block,Engine,70cc,2800,108
+P1499,Disc Pad,Braking,100cc,320,431
+P1500,Drum Rubber,Rubber/Misc,125cc,220,309
+P1501,Side Cover,Body/Frame,100cc,950,97
+P1502,Mudguard Front,Body/Frame,125cc,1150,111
+P1503,Rear Axle,Drivetrain,100cc,280,294
+P1504,Headlight Assembly,Electrical,125cc,1250,65
+P1505,Footrest Rubber,Rubber/Misc,100cc,140,434
+P1506,Mudguard Front,Body/Frame,100cc,750,296
+P1507,Side Cover,Body/Frame,100cc,950,343
+P1508,Oil Pump,Engine,125cc,680,11
+P1509,Indicator Relay,Electrical,70cc,90,43
+P1510,Drum Rubber,Rubber/Misc,70cc,120,231
+P1511,Oil Pump,Engine,125cc,680,378
+P1512,Indicator Relay,Electrical,70cc,90,355
+P1513,Side Cover,Body/Frame,125cc,1350,397
+P1514,Handle Bar,Body/Frame,70cc,500,301
+P1515,Drive Chain,Drivetrain,70cc,450,237
+P1516,Ignition Switch,Electrical,125cc,850,169
+P1517,Oil Pump,Engine,70cc,380,245
+P1518,Brake Cable,Braking,125cc,220,247
+P1519,Mudguard Front,Body/Frame,70cc,550,233
+P1520,Piston Kit,Engine,125cc,1850,451
+P1521,Fuel Tank,Body/Frame,70cc,2800,153
+P1522,Mudguard Rear,Body/Frame,70cc,600,384
+P1523,Handle Bar,Body/Frame,125cc,850,80
+P1524,Spark Plug,Electrical,100cc,350,212
+P1525,Mudguard Front,Body/Frame,100cc,750,76
+P1526,Piston Kit,Engine,125cc,1850,47
+P1527,Brake Shoe Set,Braking,125cc,550,256
+P1528,Brake Shoe Set,Braking,100cc,380,175
+P1529,Handle Grip,Rubber/Misc,125cc,180,35
+P1530,Handle Bar,Body/Frame,125cc,850,93
+P1531,Gasket Kit,Engine,100cc,260,221
+P1532,Rear Axle,Drivetrain,125cc,380,105
+P1533,Ignition Switch,Electrical,70cc,450,327
+P1534,Spark Plug,Electrical,100cc,350,428
+P1535,Disc Pad,Braking,125cc,450,4
+P1536,Mudguard Rear,Body/Frame,70cc,600,62
+P1537,Sprocket Hub,Drivetrain,100cc,620,278
+P1538,Drum Rubber,Rubber/Misc,100cc,160,367
+P1539,Chain Sprocket Kit,Drivetrain,125cc,2850,408
+P1540,Mudguard Rear,Body/Frame,100cc,780,329
+P1541,Side Cover,Body/Frame,100cc,950,58
+P1542,Sprocket Hub,Drivetrain,125cc,850,366
+P1543,Piston Kit,Engine,70cc,950,197
+P1544,Mudguard Rear,Body/Frame,70cc,600,268
+P1545,Brake Lever,Braking,70cc,120,168
+P1546,Brake Cable,Braking,100cc,180,68
+P1547,Fuel Tank,Body/Frame,70cc,2800,209
+P1548,Brake Cable,Braking,125cc,220,128
+P1549,Brake Shoe Set,Braking,125cc,550,456
+P1550,Footrest Rubber,Rubber/Misc,125cc,160,414
+P1551,Sprocket Hub,Drivetrain,70cc,480,110
+P1552,Chain Sprocket Kit,Drivetrain,100cc,2150,87
+P1553,Brake Cable,Braking,125cc,220,482
+P1554,Rear Axle,Drivetrain,100cc,280,416
+P1555,Gasket Kit,Engine,125cc,380,476
+P1556,Brake Lever,Braking,70cc,120,324
+P1557,Gasket Kit,Engine,70cc,180,250
+P1558,Brake Shoe Set,Braking,100cc,380,410
+P1559,Spark Plug,Electrical,70cc,350,209
+P1560,Drive Chain,Drivetrain,125cc,850,482
+P1561,Spark Plug,Electrical,125cc,385,417
+P1562,Drive Chain,Drivetrain,70cc,450,255
+P1563,Handle Grip,Rubber/Misc,100cc,150,150
+P1564,Chain Sprocket Kit,Drivetrain,125cc,2850,465
+P1565,Brake Shoe Set,Braking,70cc,280,310
+P1566,Sprocket Hub,Drivetrain,125cc,850,110
+P1567,Drum Rubber,Rubber/Misc,125cc,220,256
+P1568,Oil Pump,Engine,70cc,380,204
+P1569,Disc Pad,Braking,125cc,450,15
+P1570,Brake Shoe Set,Braking,70cc,280,148
+P1571,Drive Chain,Drivetrain,125cc,850,252
+P1572,CDI Unit,Electrical,125cc,650,280
+P1573,Ignition Switch,Electrical,70cc,450,476
+P1574,Fuel Tank,Body/Frame,125cc,4800,195
+P1575,Rear Axle,Drivetrain,100cc,280,327
+P1576,Ignition Switch,Electrical,100cc,600,86
+P1577,Clutch Plate Set,Engine,100cc,850,222
+P1578,Disc Pad,Braking,125cc,450,254
+P1579,Drum Rubber,Rubber/Misc,125cc,220,52
+P1580,Fuel Tank,Body/Frame,125cc,4800,334
+P1581,Gasket Kit,Engine,125cc,380,176
+P1582,Mudguard Rear,Body/Frame,125cc,1100,402
+P1583,Drum Rubber,Rubber/Misc,125cc,220,76
+P1584,Indicator Relay,Electrical,70cc,90,55
+P1585,Brake Shoe Set,Braking,70cc,280,483
+P1586,Brake Shoe Set,Braking,70cc,280,285
+P1587,Sprocket Hub,Drivetrain,100cc,620,34
+P1588,Drum Rubber,Rubber/Misc,125cc,220,251
+P1589,Mudguard Front,Body/Frame,125cc,1150,37
+P1590,Headlight Assembly,Electrical,100cc,750,161
+P1591,Footrest Rubber,Rubber/Misc,125cc,160,114
+P1592,Indicator Relay,Electrical,70cc,90,324
+P1593,Handle Bar,Body/Frame,125cc,850,255
+P1594,Oil Pump,Engine,125cc,680,115
+P1595,Air Cleaner Filter,Rubber/Misc,70cc,160,269
+P1596,Brake Lever,Braking,70cc,120,318
+P1597,CDI Unit,Electrical,70cc,320,246
+P1598,Brake Cable,Braking,125cc,220,371
+P1599,Rear Axle,Drivetrain,70cc,220,405
+P1600,Sprocket Hub,Drivetrain,100cc,620,175
+P1601,Clutch Plate Set,Engine,100cc,850,99
+P1602,Indicator Relay,Electrical,100cc,120,32
+P1603,Disc Pad,Braking,70cc,250,70
+P1604,Brake Lever,Braking,70cc,120,269
+P1605,Fuel Tank,Body/Frame,70cc,2800,235
+P1606,Ignition Switch,Electrical,100cc,600,457
+P1607,Brake Cable,Braking,125cc,220,70
+P1608,Chain Sprocket Kit,Drivetrain,125cc,2850,338
+P1609,Brake Shoe Set,Braking,70cc,280,171
+P1610,Cylinder Block,Engine,125cc,4800,388
+P1611,Handle Bar,Body/Frame,70cc,500,496
+P1612,Disc Pad,Braking,100cc,320,291
+P1613,Disc Pad,Braking,100cc,320,377
+P1614,Brake Lever,Braking,100cc,140,40
+P1615,Handle Grip,Rubber/Misc,70cc,120,363
+P1616,Side Cover,Body/Frame,100cc,950,317
+P1617,Rear Axle,Drivetrain,70cc,220,188
+P1618,Mudguard Front,Body/Frame,100cc,750,149
+P1619,Brake Shoe Set,Braking,70cc,280,421
+P1620,Mudguard Rear,Body/Frame,125cc,1100,137
+P1621,Clutch Plate Set,Engine,100cc,850,367
+P1622,Gasket Kit,Engine,70cc,180,74
+P1623,Mudguard Front,Body/Frame,70cc,550,158
+P1624,Handle Grip,Rubber/Misc,125cc,180,154
+P1625,Clutch Plate Set,Engine,100cc,850,251
+P1626,Brake Cable,Braking,100cc,180,196
+P1627,Mudguard Front,Body/Frame,100cc,750,325
+P1628,Brake Shoe Set,Braking,125cc,550,37
+P1629,CDI Unit,Electrical,100cc,450,66
+P1630,Piston Kit,Engine,125cc,1850,458
+P1631,Handle Bar,Body/Frame,125cc,850,163
+P1632,Sprocket Hub,Drivetrain,70cc,480,60
+P1633,Spark Plug,Electrical,70cc,350,450
+P1634,Brake Lever,Braking,70cc,120,323
+P1635,Disc Pad,Braking,70cc,250,138
+P1636,Headlight Assembly,Electrical,100cc,750,94
+P1637,Piston Kit,Engine,100cc,1350,203
+P1638,Sprocket Hub,Drivetrain,125cc,850,366
+P1639,Drive Chain,Drivetrain,125cc,850,89
+P1640,Headlight Assembly,Electrical,125cc,1250,485
+P1641,Chain Sprocket Kit,Drivetrain,70cc,1650,396
+P1642,Drive Chain,Drivetrain,125cc,850,474
+P1643,Clutch Plate Set,Engine,125cc,2200,387
+P1644,CDI Unit,Electrical,70cc,320,382
+P1645,Headlight Assembly,Electrical,125cc,1250,307
+P1646,Gasket Kit,Engine,100cc,260,229
+P1647,Cylinder Block,Engine,70cc,2800,244
+P1648,Handle Bar,Body/Frame,125cc,850,333
+P1649,Brake Cable,Braking,100cc,180,428
+P1650,Side Cover,Body/Frame,70cc,750,200
+P1651,Footrest Rubber,Rubber/Misc,125cc,160,275
+P1652,Piston Kit,Engine,100cc,1350,300
+P1653,Indicator Relay,Electrical,100cc,120,345
+P1654,Cylinder Block,Engine,70cc,2800,490
+P1655,Brake Shoe Set,Braking,125cc,550,57
+P1656,Footrest Rubber,Rubber/Misc,125cc,160,180
+P1657,Brake Cable,Braking,125cc,220,70
+P1658,Footrest Rubber,Rubber/Misc,70cc,120,497
+P1659,Drive Chain,Drivetrain,125cc,850,28
+P1660,Piston Kit,Engine,100cc,1350,352
+P1661,Headlight Assembly,Electrical,125cc,1250,184
+P1662,Brake Cable,Braking,70cc,140,174
+P1663,Brake Shoe Set,Braking,70cc,280,0
+P1664,Sprocket Hub,Drivetrain,100cc,620,18
+P1665,Footrest Rubber,Rubber/Misc,125cc,160,234
+P1666,Ignition Switch,Electrical,70cc,450,211
+P1667,Handle Bar,Body/Frame,70cc,500,347
+P1668,Brake Lever,Braking,70cc,120,181
+P1669,Brake Shoe Set,Braking,125cc,550,444
+P1670,Air Cleaner Filter,Rubber/Misc,70cc,160,153
+P1671,Brake Cable,Braking,100cc,180,217
+P1672,Handle Grip,Rubber/Misc,125cc,180,202
+P1673,Mudguard Rear,Body/Frame,70cc,600,413
+P1674,Oil Pump,Engine,125cc,680,436
+P1675,Cylinder Block,Engine,70cc,2800,3
+P1676,Sprocket Hub,Drivetrain,125cc,850,139
+P1677,Oil Pump,Engine,70cc,380,12
+P1678,Oil Pump,Engine,125cc,680,424
+P1679,Drum Rubber,Rubber/Misc,70cc,120,221
+P1680,Oil Pump,Engine,125cc,680,454
+P1681,CDI Unit,Electrical,100cc,450,321
+P1682,Drive Chain,Drivetrain,100cc,600,65
+P1683,Disc Pad,Braking,125cc,450,141
+P1684,Brake Lever,Braking,125cc,180,43
+P1685,Cylinder Block,Engine,100cc,3800,20
+P1686,Mudguard Front,Body/Frame,100cc,750,262
+P1687,Brake Cable,Braking,125cc,220,486
+P1688,Handle Bar,Body/Frame,100cc,650,268
+P1689,Side Cover,Body/Frame,70cc,750,226
+P1690,Fuel Tank,Body/Frame,100cc,3600,327
+P1691,Mudguard Front,Body/Frame,70cc,550,67
+P1692,Handle Bar,Body/Frame,100cc,650,87
+P1693,Disc Pad,Braking,70cc,250,318
+P1694,Disc Pad,Braking,70cc,250,182
+P1695,Side Cover,Body/Frame,100cc,950,490
+P1696,Mudguard Rear,Body/Frame,100cc,780,213
+P1697,Brake Lever,Braking,125cc,180,475
+P1698,Drum Rubber,Rubber/Misc,125cc,220,390
+P1699,Brake Lever,Braking,100cc,140,433
+P1700,Side Cover,Body/Frame,125cc,1350,116
+P1701,Disc Pad,Braking,125cc,450,33
+P1702,Brake Lever,Braking,100cc,140,244
+P1703,Fuel Tank,Body/Frame,100cc,3600,464
+P1704,Headlight Assembly,Electrical,125cc,1250,133
+P1705,Headlight Assembly,Electrical,70cc,550,141
+P1706,Handle Grip,Rubber/Misc,100cc,150,496
+P1707,Clutch Plate Set,Engine,70cc,550,187
+P1708,CDI Unit,Electrical,125cc,650,57
+P1709,Brake Lever,Braking,100cc,140,131
+P1710,Drum Rubber,Rubber/Misc,70cc,120,176
+P1711,Ignition Switch,Electrical,100cc,600,65
+P1712,Disc Pad,Braking,125cc,450,274
+P1713,Sprocket Hub,Drivetrain,100cc,620,300
+P1714,Air Cleaner Filter,Rubber/Misc,125cc,320,273
+P1715,Rear Axle,Drivetrain,70cc,220,388
+P1716,Brake Cable,Braking,70cc,140,232
+P1717,Mudguard Rear,Body/Frame,100cc,780,336
+P1718,Air Cleaner Filter,Rubber/Misc,100cc,220,281
+P1719,Handle Bar,Body/Frame,70cc,500,341
+P1720,Disc Pad,Braking,125cc,450,390
+P1721,Indicator Relay,Electrical,70cc,90,399
+P1722,Piston Kit,Engine,125cc,1850,190
+P1723,Gasket Kit,Engine,100cc,260,461
+P1724,Sprocket Hub,Drivetrain,70cc,480,95
+P1725,Clutch Plate Set,Engine,100cc,850,314
+P1726,Oil Pump,Engine,125cc,680,423
+P1727,Piston Kit,Engine,70cc,950,73
+P1728,Mudguard Rear,Body/Frame,125cc,1100,380
+P1729,Headlight Assembly,Electrical,70cc,550,484
+P1730,Fuel Tank,Body/Frame,125cc,4800,325
+P1731,Brake Cable,Braking,125cc,220,170
+P1732,Drive Chain,Drivetrain,70cc,450,116
+P1733,Drive Chain,Drivetrain,100cc,600,403
+P1734,Chain Sprocket Kit,Drivetrain,125cc,2850,16
+P1735,Mudguard Front,Body/Frame,100cc,750,45
+P1736,Air Cleaner Filter,Rubber/Misc,100cc,220,473
+P1737,Disc Pad,Braking,70cc,250,499
+P1738,Chain Sprocket Kit,Drivetrain,125cc,2850,7
+P1739,CDI Unit,Electrical,100cc,450,0
+P1740,Chain Sprocket Kit,Drivetrain,70cc,1650,126
+P1741,Oil Pump,Engine,70cc,380,115
+P1742,Handle Bar,Body/Frame,125cc,850,146
+P1743,Air Cleaner Filter,Rubber/Misc,100cc,220,406
+P1744,Piston Kit,Engine,70cc,950,117
+P1745,Cylinder Block,Engine,100cc,3800,326
+P1746,Piston Kit,Engine,125cc,1850,454
+P1747,Rear Axle,Drivetrain,70cc,220,449
+P1748,CDI Unit,Electrical,70cc,320,22
+P1749,Brake Lever,Braking,125cc,180,115
+P1750,Fuel Tank,Body/Frame,70cc,2800,428
+P1751,Handle Bar,Body/Frame,125cc,850,114
+P1752,Sprocket Hub,Drivetrain,125cc,850,421
+P1753,Fuel Tank,Body/Frame,100cc,3600,156
+P1754,Air Cleaner Filter,Rubber/Misc,100cc,220,355
+P1755,Handle Grip,Rubber/Misc,70cc,120,85
+P1756,Brake Lever,Braking,125cc,180,84
+P1757,Ignition Switch,Electrical,70cc,450,76
+P1758,Headlight Assembly,Electrical,70cc,550,369
+P1759,Handle Grip,Rubber/Misc,100cc,150,474
+P1760,Brake Lever,Braking,125cc,180,430
+P1761,Clutch Plate Set,Engine,100cc,850,134
+P1762,Brake Lever,Braking,70cc,120,65
+P1763,Handle Grip,Rubber/Misc,125cc,180,20
+P1764,Mudguard Rear,Body/Frame,100cc,780,172
+P1765,Oil Pump,Engine,70cc,380,134
+P1766,Mudguard Front,Body/Frame,125cc,1150,419
+P1767,Brake Lever,Braking,100cc,140,336
+P1768,Air Cleaner Filter,Rubber/Misc,70cc,160,382
+P1769,Drive Chain,Drivetrain,125cc,850,386
+P1770,Handle Grip,Rubber/Misc,100cc,150,145
+P1771,Air Cleaner Filter,Rubber/Misc,125cc,320,167
+P1772,Ignition Switch,Electrical,70cc,450,169
+P1773,Chain Sprocket Kit,Drivetrain,100cc,2150,336
+P1774,Clutch Plate Set,Engine,100cc,850,121
+P1775,Chain Sprocket Kit,Drivetrain,125cc,2850,276
+P1776,Sprocket Hub,Drivetrain,70cc,480,177
+P1777,Clutch Plate Set,Engine,70cc,550,149
+P1778,Brake Lever,Braking,100cc,140,354
+P1779,Side Cover,Body/Frame,125cc,1350,307
+P1780,Oil Pump,Engine,125cc,680,474
+P1781,Drive Chain,Drivetrain,100cc,600,221
+P1782,Brake Lever,Braking,125cc,180,67
+P1783,Spark Plug,Electrical,100cc,350,352
+P1784,Rear Axle,Drivetrain,100cc,280,232
+P1785,Mudguard Rear,Body/Frame,125cc,1100,199
+P1786,Side Cover,Body/Frame,70cc,750,474
+P1787,Side Cover,Body/Frame,125cc,1350,84
+P1788,Air Cleaner Filter,Rubber/Misc,100cc,220,401
+P1789,Headlight Assembly,Electrical,70cc,550,110
+P1790,Sprocket Hub,Drivetrain,125cc,850,467
+P1791,Rear Axle,Drivetrain,125cc,380,190
+P1792,Fuel Tank,Body/Frame,100cc,3600,473
+P1793,Mudguard Front,Body/Frame,125cc,1150,146
+P1794,Gasket Kit,Engine,125cc,380,41
+P1795,Drive Chain,Drivetrain,70cc,450,252
+P1796,Footrest Rubber,Rubber/Misc,100cc,140,169
+P1797,Side Cover,Body/Frame,70cc,750,13
+P1798,Handle Bar,Body/Frame,70cc,500,125
+P1799,Oil Pump,Engine,125cc,680,73
+P1800,Handle Grip,Rubber/Misc,125cc,180,47
+P1801,Drum Rubber,Rubber/Misc,125cc,220,218
+P1802,Piston Kit,Engine,125cc,1850,321
+P1803,Air Cleaner Filter,Rubber/Misc,125cc,320,307
+P1804,Mudguard Front,Body/Frame,125cc,1150,286
+P1805,Piston Kit,Engine,100cc,1350,11
+P1806,Mudguard Front,Body/Frame,125cc,1150,475
+P1807,CDI Unit,Electrical,70cc,320,156
+P1808,Handle Grip,Rubber/Misc,100cc,150,45
+P1809,Side Cover,Body/Frame,70cc,750,13
+P1810,Headlight Assembly,Electrical,125cc,1250,448
+P1811,Brake Shoe Set,Braking,100cc,380,71
+P1812,Clutch Plate Set,Engine,100cc,850,127
+P1813,Drive Chain,Drivetrain,70cc,450,395
+P1814,Drum Rubber,Rubber/Misc,125cc,220,158
+P1815,Footrest Rubber,Rubber/Misc,70cc,120,428
+P1816,Ignition Switch,Electrical,70cc,450,280
+P1817,Gasket Kit,Engine,125cc,380,101
+P1818,Handle Bar,Body/Frame,70cc,500,452
+P1819,Brake Shoe Set,Braking,100cc,380,31
+P1820,Cylinder Block,Engine,70cc,2800,4
+P1821,Footrest Rubber,Rubber/Misc,125cc,160,151
+P1822,Handle Bar,Body/Frame,70cc,500,329
+P1823,Brake Lever,Braking,100cc,140,50
+P1824,Rear Axle,Drivetrain,70cc,220,210
+P1825,Mudguard Front,Body/Frame,70cc,550,312
+P1826,Handle Bar,Body/Frame,70cc,500,77
+P1827,Spark Plug,Electrical,100cc,350,18
+P1828,Drive Chain,Drivetrain,100cc,600,330
+P1829,Disc Pad,Braking,125cc,450,351
+P1830,Brake Lever,Braking,70cc,120,189
+P1831,Mudguard Front,Body/Frame,125cc,1150,136
+P1832,Indicator Relay,Electrical,100cc,120,115
+P1833,Air Cleaner Filter,Rubber/Misc,100cc,220,37
+P1834,Sprocket Hub,Drivetrain,125cc,850,443
+P1835,Drum Rubber,Rubber/Misc,70cc,120,417
+P1836,Footrest Rubber,Rubber/Misc,125cc,160,424
+P1837,Mudguard Front,Body/Frame,70cc,550,330
+P1838,Gasket Kit,Engine,100cc,260,344
+P1839,Fuel Tank,Body/Frame,125cc,4800,411
+P1840,Brake Cable,Braking,70cc,140,396
+P1841,Brake Lever,Braking,125cc,180,135
+P1842,Mudguard Rear,Body/Frame,100cc,780,128
+P1843,Fuel Tank,Body/Frame,100cc,3600,194
+P1844,Mudguard Rear,Body/Frame,125cc,1100,196
+P1845,Rear Axle,Drivetrain,100cc,280,166
+P1846,CDI Unit,Electrical,100cc,450,201
+P1847,Footrest Rubber,Rubber/Misc,70cc,120,201
+P1848,Oil Pump,Engine,70cc,380,356
+P1849,Drive Chain,Drivetrain,100cc,600,212
+P1850,Headlight Assembly,Electrical,100cc,750,238
+P1851,Clutch Plate Set,Engine,70cc,550,459
+P1852,Piston Kit,Engine,70cc,950,317
+P1853,Sprocket Hub,Drivetrain,100cc,620,440
+P1854,Brake Cable,Braking,100cc,180,173
+P1855,Sprocket Hub,Drivetrain,70cc,480,43
+P1856,Clutch Plate Set,Engine,125cc,2200,99
+P1857,Drive Chain,Drivetrain,70cc,450,0
+P1858,Side Cover,Body/Frame,125cc,1350,148
+P1859,Footrest Rubber,Rubber/Misc,125cc,160,263
+P1860,Drive Chain,Drivetrain,70cc,450,126
+P1861,Handle Bar,Body/Frame,70cc,500,231
+P1862,Brake Cable,Braking,125cc,220,63
+P1863,Air Cleaner Filter,Rubber/Misc,100cc,220,99
+P1864,Spark Plug,Electrical,70cc,350,175
+P1865,Gasket Kit,Engine,100cc,260,67
+P1866,Ignition Switch,Electrical,125cc,850,110
+P1867,Handle Grip,Rubber/Misc,125cc,180,181
+P1868,Drum Rubber,Rubber/Misc,125cc,220,427
+P1869,Mudguard Rear,Body/Frame,70cc,600,163
+P1870,Side Cover,Body/Frame,125cc,1350,62
+P1871,Drive Chain,Drivetrain,125cc,850,405
+P1872,Mudguard Rear,Body/Frame,70cc,600,69
+P1873,Spark Plug,Electrical,100cc,350,2
+P1874,CDI Unit,Electrical,125cc,650,243
+P1875,Oil Pump,Engine,125cc,680,96
+P1876,Ignition Switch,Electrical,100cc,600,410
+P1877,Brake Shoe Set,Braking,70cc,280,42
+P1878,Sprocket Hub,Drivetrain,125cc,850,208
+P1879,Piston Kit,Engine,125cc,1850,241
+P1880,Fuel Tank,Body/Frame,70cc,2800,352
+P1881,CDI Unit,Electrical,125cc,650,355
+P1882,Brake Shoe Set,Braking,100cc,380,450
+P1883,Mudguard Rear,Body/Frame,125cc,1100,240
+P1884,Gasket Kit,Engine,100cc,260,405
+P1885,CDI Unit,Electrical,70cc,320,147
+P1886,Disc Pad,Braking,70cc,250,30
+P1887,Disc Pad,Braking,100cc,320,8
+P1888,Headlight Assembly,Electrical,125cc,1250,358
+P1889,Fuel Tank,Body/Frame,100cc,3600,2
+P1890,Sprocket Hub,Drivetrain,125cc,850,292
+P1891,Chain Sprocket Kit,Drivetrain,100cc,2150,283
+P1892,Brake Lever,Braking,100cc,140,110
+P1893,Brake Cable,Braking,100cc,180,340
+P1894,CDI Unit,Electrical,70cc,320,322
+P1895,Indicator Relay,Electrical,125cc,150,365
+P1896,Drive Chain,Drivetrain,125cc,850,6
+P1897,Mudguard Front,Body/Frame,100cc,750,150
+P1898,Ignition Switch,Electrical,70cc,450,164
+P1899,Sprocket Hub,Drivetrain,70cc,480,17
+P1900,Mudguard Front,Body/Frame,125cc,1150,44
+P1901,Clutch Plate Set,Engine,125cc,2200,359
+P1902,Indicator Relay,Electrical,70cc,90,499
+P1903,Ignition Switch,Electrical,125cc,850,488
+P1904,Indicator Relay,Electrical,70cc,90,247
+P1905,Side Cover,Body/Frame,125cc,1350,132
+P1906,Footrest Rubber,Rubber/Misc,100cc,140,340
+P1907,Drive Chain,Drivetrain,100cc,600,395
+P1908,Clutch Plate Set,Engine,100cc,850,452
+P1909,Brake Lever,Braking,100cc,140,127
+P1910,Rear Axle,Drivetrain,100cc,280,394
+P1911,Ignition Switch,Electrical,70cc,450,208
+P1912,CDI Unit,Electrical,70cc,320,247
+P1913,Brake Shoe Set,Braking,70cc,280,451
+P1914,Brake Cable,Braking,125cc,220,470
+P1915,Disc Pad,Braking,70cc,250,289
+P1916,Gasket Kit,Engine,70cc,180,422
+P1917,Brake Cable,Braking,70cc,140,152
+P1918,Oil Pump,Engine,70cc,380,100
+P1919,Brake Lever,Braking,100cc,140,373
+P1920,Handle Bar,Body/Frame,100cc,650,420
+P1921,Gasket Kit,Engine,100cc,260,1
+P1922,Brake Lever,Braking,125cc,180,186
+P1923,Brake Lever,Braking,125cc,180,113
+P1924,Ignition Switch,Electrical,125cc,850,360
+P1925,CDI Unit,Electrical,100cc,450,189
+P1926,Mudguard Front,Body/Frame,70cc,550,198
+P1927,Rear Axle,Drivetrain,125cc,380,391
+P1928,Indicator Relay,Electrical,70cc,90,233
+P1929,Sprocket Hub,Drivetrain,70cc,480,391
+P1930,Headlight Assembly,Electrical,125cc,1250,416
+P1931,Mudguard Front,Body/Frame,70cc,550,432
+P1932,Indicator Relay,Electrical,100cc,120,189
+P1933,Rear Axle,Drivetrain,125cc,380,263
+P1934,Handle Grip,Rubber/Misc,100cc,150,228
+P1935,Sprocket Hub,Drivetrain,125cc,850,140
+P1936,Air Cleaner Filter,Rubber/Misc,70cc,160,277
+P1937,Footrest Rubber,Rubber/Misc,100cc,140,384
+P1938,Disc Pad,Braking,70cc,250,238
+P1939,Chain Sprocket Kit,Drivetrain,100cc,2150,199
+P1940,Handle Grip,Rubber/Misc,70cc,120,351
+P1941,Handle Bar,Body/Frame,70cc,500,403
+P1942,Drive Chain,Drivetrain,125cc,850,128
+P1943,Headlight Assembly,Electrical,70cc,550,114
+P1944,Mudguard Front,Body/Frame,70cc,550,451
+P1945,Cylinder Block,Engine,125cc,4800,333
+P1946,Brake Shoe Set,Braking,125cc,550,38
+P1947,Ignition Switch,Electrical,100cc,600,195
+P1948,Indicator Relay,Electrical,125cc,150,391
+P1949,Side Cover,Body/Frame,125cc,1350,384
+P1950,Chain Sprocket Kit,Drivetrain,70cc,1650,410
+P1951,Cylinder Block,Engine,125cc,4800,328
+P1952,Spark Plug,Electrical,100cc,350,64
+P1953,Sprocket Hub,Drivetrain,100cc,620,88
+P1954,Handle Bar,Body/Frame,125cc,850,132
+P1955,Drive Chain,Drivetrain,70cc,450,174
+P1956,Handle Grip,Rubber/Misc,125cc,180,324
+P1957,Gasket Kit,Engine,100cc,260,40
+P1958,Brake Lever,Braking,70cc,120,487
+P1959,Disc Pad,Braking,125cc,450,346
+P1960,Indicator Relay,Electrical,70cc,90,461
+P1961,Chain Sprocket Kit,Drivetrain,125cc,2850,221
+P1962,Rear Axle,Drivetrain,70cc,220,194
+P1963,Air Cleaner Filter,Rubber/Misc,125cc,320,132
+P1964,Footrest Rubber,Rubber/Misc,100cc,140,333
+P1965,Handle Grip,Rubber/Misc,100cc,150,288
+P1966,CDI Unit,Electrical,125cc,650,414
+P1967,Gasket Kit,Engine,70cc,180,199
+P1968,Oil Pump,Engine,125cc,680,218
+P1969,Disc Pad,Braking,100cc,320,163
+P1970,Brake Lever,Braking,100cc,140,45
+P1971,Chain Sprocket Kit,Drivetrain,70cc,1650,51
+P1972,Cylinder Block,Engine,125cc,4800,380
+P1973,Indicator Relay,Electrical,125cc,150,403
+P1974,Rear Axle,Drivetrain,100cc,280,152
+P1975,Disc Pad,Braking,100cc,320,493
+P1976,Drive Chain,Drivetrain,125cc,850,137
+P1977,Brake Lever,Braking,100cc,140,417
+P1978,Footrest Rubber,Rubber/Misc,125cc,160,253
+P1979,Handle Grip,Rubber/Misc,125cc,180,241
+P1980,Mudguard Rear,Body/Frame,125cc,1100,498
+P1981,Drum Rubber,Rubber/Misc,125cc,220,331
+P1982,Footrest Rubber,Rubber/Misc,100cc,140,201
+P1983,Cylinder Block,Engine,70cc,2800,178
+P1984,Footrest Rubber,Rubber/Misc,125cc,160,188
+P1985,Headlight Assembly,Electrical,100cc,750,436
+P1986,Piston Kit,Engine,70cc,950,156
+P1987,Spark Plug,Electrical,100cc,350,281
+P1988,Mudguard Front,Body/Frame,100cc,750,285
+P1989,Gasket Kit,Engine,125cc,380,238
+P1990,Brake Cable,Braking,125cc,220,135
+P1991,Headlight Assembly,Electrical,125cc,1250,482
+P1992,Brake Cable,Braking,100cc,180,80
+P1993,Sprocket Hub,Drivetrain,100cc,620,217
+P1994,Brake Cable,Braking,125cc,220,440
+P1995,Drum Rubber,Rubber/Misc,125cc,220,162
+P1996,Disc Pad,Braking,100cc,320,109
+P1997,Headlight Assembly,Electrical,70cc,550,354
+P1998,Indicator Relay,Electrical,100cc,120,444
+P1999,Handle Grip,Rubber/Misc,100cc,150,4
+P2000,Brake Lever,Braking,125cc,180,225
+P2001,Brake Shoe Set,Braking,100cc,380,138
+P2002,Chain Sprocket Kit,Drivetrain,100cc,2150,147
+P2003,Spark Plug,Electrical,100cc,350,282
+P2004,Side Cover,Body/Frame,125cc,1350,115
+P2005,Piston Kit,Engine,100cc,1350,449
+P2006,Footrest Rubber,Rubber/Misc,100cc,140,486
+P2007,Ignition Switch,Electrical,125cc,850,40
+P2008,Clutch Plate Set,Engine,100cc,850,5
+P2009,Chain Sprocket Kit,Drivetrain,100cc,2150,406
+P2010,Air Cleaner Filter,Rubber/Misc,100cc,220,39
+P2011,Brake Cable,Braking,70cc,140,16
+P2012,Disc Pad,Braking,125cc,450,123
+P2013,Spark Plug,Electrical,100cc,350,94
+P2014,Oil Pump,Engine,70cc,380,173
+P2015,Spark Plug,Electrical,100cc,350,384
+P2016,Handle Bar,Body/Frame,70cc,500,102
+P2017,Disc Pad,Braking,70cc,250,403
+P2018,Footrest Rubber,Rubber/Misc,70cc,120,37
+P2019,Brake Cable,Braking,100cc,180,35
+P2020,Handle Grip,Rubber/Misc,125cc,180,466
+P2021,Brake Shoe Set,Braking,125cc,550,329
+P2022,Mudguard Rear,Body/Frame,70cc,600,62
+P2023,Oil Pump,Engine,125cc,680,454
+P2024,Chain Sprocket Kit,Drivetrain,100cc,2150,389
+P2025,Brake Shoe Set,Braking,125cc,550,203
+P2026,Clutch Plate Set,Engine,70cc,550,471
+P2027,Air Cleaner Filter,Rubber/Misc,125cc,320,170
+P2028,Air Cleaner Filter,Rubber/Misc,100cc,220,435
+P2029,Drive Chain,Drivetrain,100cc,600,340
+P2030,Spark Plug,Electrical,125cc,385,303
+P2031,Side Cover,Body/Frame,125cc,1350,127
+P2032,Mudguard Front,Body/Frame,125cc,1150,183
+P2033,Drum Rubber,Rubber/Misc,70cc,120,38
+P2034,Handle Bar,Body/Frame,70cc,500,184
+P2035,Chain Sprocket Kit,Drivetrain,100cc,2150,43
+P2036,Air Cleaner Filter,Rubber/Misc,100cc,220,137
+P2037,Handle Grip,Rubber/Misc,100cc,150,208
+P2038,Footrest Rubber,Rubber/Misc,70cc,120,352
+P2039,Brake Lever,Braking,125cc,180,310
+P2040,Footrest Rubber,Rubber/Misc,100cc,140,436
+P2041,Drive Chain,Drivetrain,100cc,600,295
+P2042,Spark Plug,Electrical,100cc,350,310
+P2043,Brake Lever,Braking,125cc,180,248
+P2044,Oil Pump,Engine,125cc,680,163
+P2045,Spark Plug,Electrical,100cc,350,106
+P2046,Fuel Tank,Body/Frame,125cc,4800,268
+P2047,Headlight Assembly,Electrical,125cc,1250,141
+P2048,Gasket Kit,Engine,125cc,380,380
+P2049,CDI Unit,Electrical,70cc,320,439
+P2050,Gasket Kit,Engine,100cc,260,345
+P2051,Rear Axle,Drivetrain,125cc,380,486
+P2052,Brake Cable,Braking,125cc,220,325
+P2053,Brake Cable,Braking,100cc,180,285
+P2054,Mudguard Front,Body/Frame,100cc,750,73
+P2055,Handle Grip,Rubber/Misc,100cc,150,169
+P2056,Fuel Tank,Body/Frame,125cc,4800,374
+P2057,Footrest Rubber,Rubber/Misc,70cc,120,430
+P2058,Brake Cable,Braking,70cc,140,161
+P2059,Gasket Kit,Engine,100cc,260,120
+P2060,Gasket Kit,Engine,70cc,180,216
+P2061,Brake Lever,Braking,125cc,180,377
+P2062,Headlight Assembly,Electrical,125cc,1250,306
+P2063,Piston Kit,Engine,125cc,1850,481
+P2064,Rear Axle,Drivetrain,70cc,220,187
+P2065,Piston Kit,Engine,125cc,1850,186
+P2066,Rear Axle,Drivetrain,125cc,380,33
+P2067,Sprocket Hub,Drivetrain,70cc,480,12
+P2068,Brake Lever,Braking,125cc,180,376
+P2069,Footrest Rubber,Rubber/Misc,70cc,120,150
+P2070,Side Cover,Body/Frame,100cc,950,441
+P2071,Chain Sprocket Kit,Drivetrain,125cc,2850,248
+P2072,CDI Unit,Electrical,125cc,650,56
+P2073,Mudguard Rear,Body/Frame,100cc,780,190
+P2074,Brake Shoe Set,Braking,125cc,550,330
+P2075,Drum Rubber,Rubber/Misc,70cc,120,459
+P2076,Fuel Tank,Body/Frame,70cc,2800,355
+P2077,Fuel Tank,Body/Frame,70cc,2800,358
+P2078,Headlight Assembly,Electrical,70cc,550,208
+P2079,Brake Shoe Set,Braking,125cc,550,291
+P2080,Ignition Switch,Electrical,100cc,600,65
+P2081,Clutch Plate Set,Engine,100cc,850,279
+P2082,Oil Pump,Engine,70cc,380,219
+P2083,Drive Chain,Drivetrain,125cc,850,311
+P2084,Mudguard Rear,Body/Frame,100cc,780,451
+P2085,Brake Cable,Braking,100cc,180,55
+P2086,Side Cover,Body/Frame,70cc,750,490
+P2087,Brake Cable,Braking,100cc,180,264
+P2088,Sprocket Hub,Drivetrain,100cc,620,116
+P2089,Clutch Plate Set,Engine,100cc,850,353
+P2090,Brake Cable,Braking,70cc,140,217
+P2091,Handle Grip,Rubber/Misc,70cc,120,87
+P2092,Disc Pad,Braking,125cc,450,198
+P2093,Side Cover,Body/Frame,125cc,1350,22
+P2094,Side Cover,Body/Frame,125cc,1350,460
+P2095,Cylinder Block,Engine,100cc,3800,433
+P2096,Cylinder Block,Engine,125cc,4800,107
+P2097,Drum Rubber,Rubber/Misc,100cc,160,393
+P2098,Brake Cable,Braking,125cc,220,491
+P2099,Headlight Assembly,Electrical,70cc,550,308
+P2100,Chain Sprocket Kit,Drivetrain,100cc,2150,176
+P2101,Headlight Assembly,Electrical,70cc,550,36
+P2102,Fuel Tank,Body/Frame,70cc,2800,228
+P2103,Fuel Tank,Body/Frame,70cc,2800,40
+P2104,Footrest Rubber,Rubber/Misc,70cc,120,60
+P2105,Air Cleaner Filter,Rubber/Misc,70cc,160,429
+P2106,Mudguard Front,Body/Frame,70cc,550,88
+P2107,Rear Axle,Drivetrain,100cc,280,334
+P2108,CDI Unit,Electrical,70cc,320,91
+P2109,Footrest Rubber,Rubber/Misc,100cc,140,198
+P2110,Indicator Relay,Electrical,100cc,120,496
+P2111,Disc Pad,Braking,100cc,320,52
+P2112,Brake Cable,Braking,125cc,220,279
+P2113,CDI Unit,Electrical,125cc,650,400
+P2114,Headlight Assembly,Electrical,125cc,1250,126
+P2115,Footrest Rubber,Rubber/Misc,100cc,140,201
+P2116,Oil Pump,Engine,125cc,680,198
+P2117,Sprocket Hub,Drivetrain,125cc,850,24
+P2118,Piston Kit,Engine,70cc,950,180
+P2119,Fuel Tank,Body/Frame,125cc,4800,254
+P2120,Brake Cable,Braking,70cc,140,198
+P2121,Sprocket Hub,Drivetrain,100cc,620,424
+P2122,Clutch Plate Set,Engine,100cc,850,351
+P2123,Oil Pump,Engine,70cc,380,169
+P2124,Disc Pad,Braking,70cc,250,5
+P2125,Spark Plug,Electrical,100cc,350,480
+P2126,Air Cleaner Filter,Rubber/Misc,70cc,160,260
+P2127,Spark Plug,Electrical,100cc,350,163
+P2128,Piston Kit,Engine,100cc,1350,85
+P2129,Spark Plug,Electrical,125cc,385,345
+P2130,Fuel Tank,Body/Frame,125cc,4800,339
+P2131,Headlight Assembly,Electrical,70cc,550,52
+P2132,Disc Pad,Braking,125cc,450,223
+P2133,CDI Unit,Electrical,100cc,450,463
+P2134,Handle Grip,Rubber/Misc,100cc,150,248
+P2135,Piston Kit,Engine,100cc,1350,181
+P2136,Gasket Kit,Engine,100cc,260,184
+P2137,Fuel Tank,Body/Frame,70cc,2800,480
+P2138,Drum Rubber,Rubber/Misc,100cc,160,5
+P2139,Cylinder Block,Engine,100cc,3800,327
+P2140,Clutch Plate Set,Engine,70cc,550,115
+P2141,Air Cleaner Filter,Rubber/Misc,100cc,220,14
+P2142,Rear Axle,Drivetrain,70cc,220,198
+P2143,Air Cleaner Filter,Rubber/Misc,100cc,220,48
+P2144,Ignition Switch,Electrical,125cc,850,201
+P2145,Brake Shoe Set,Braking,125cc,550,73
+P2146,Spark Plug,Electrical,125cc,385,8
+P2147,Cylinder Block,Engine,70cc,2800,249
+P2148,Brake Cable,Braking,100cc,180,454
+P2149,Fuel Tank,Body/Frame,125cc,4800,178
+P2150,Spark Plug,Electrical,100cc,350,165
+P2151,Cylinder Block,Engine,100cc,3800,333
+P2152,Brake Shoe Set,Braking,100cc,380,162
+P2153,Sprocket Hub,Drivetrain,100cc,620,40
+P2154,Drive Chain,Drivetrain,70cc,450,235
+P2155,Drum Rubber,Rubber/Misc,70cc,120,239
+P2156,Spark Plug,Electrical,125cc,385,419
+P2157,Indicator Relay,Electrical,100cc,120,299
+P2158,Footrest Rubber,Rubber/Misc,100cc,140,21
+P2159,Drive Chain,Drivetrain,100cc,600,338
+P2160,Sprocket Hub,Drivetrain,70cc,480,45
+P2161,Brake Shoe Set,Braking,125cc,550,304
+P2162,Cylinder Block,Engine,70cc,2800,488
+P2163,Headlight Assembly,Electrical,70cc,550,81
+P2164,Brake Cable,Braking,70cc,140,267
+P2165,Mudguard Front,Body/Frame,100cc,750,205
+P2166,Headlight Assembly,Electrical,70cc,550,396
+P2167,Footrest Rubber,Rubber/Misc,125cc,160,170
+P2168,Chain Sprocket Kit,Drivetrain,70cc,1650,237
+P2169,Headlight Assembly,Electrical,70cc,550,354
+P2170,Drum Rubber,Rubber/Misc,70cc,120,460
+P2171,Spark Plug,Electrical,70cc,350,112
+P2172,Handle Grip,Rubber/Misc,100cc,150,277
+P2173,Drive Chain,Drivetrain,70cc,450,438
+P2174,Mudguard Rear,Body/Frame,125cc,1100,105
+P2175,Mudguard Front,Body/Frame,100cc,750,334
+P2176,Drive Chain,Drivetrain,125cc,850,245
+P2177,Clutch Plate Set,Engine,100cc,850,188
+P2178,Handle Bar,Body/Frame,100cc,650,149
+P2179,Disc Pad,Braking,100cc,320,18
+P2180,Headlight Assembly,Electrical,70cc,550,133
+P2181,Spark Plug,Electrical,70cc,350,393
+P2182,Chain Sprocket Kit,Drivetrain,100cc,2150,331
+P2183,Air Cleaner Filter,Rubber/Misc,100cc,220,389
+P2184,Brake Lever,Braking,70cc,120,291
+P2185,Gasket Kit,Engine,70cc,180,363
+P2186,Drum Rubber,Rubber/Misc,100cc,160,52
+P2187,Rear Axle,Drivetrain,70cc,220,425
+P2188,Handle Bar,Body/Frame,70cc,500,293
+P2189,CDI Unit,Electrical,70cc,320,101
+P2190,Disc Pad,Braking,70cc,250,343
+P2191,Disc Pad,Braking,100cc,320,256
+P2192,Rear Axle,Drivetrain,125cc,380,245
+P2193,Clutch Plate Set,Engine,70cc,550,304
+P2194,Piston Kit,Engine,125cc,1850,256
+P2195,Drive Chain,Drivetrain,125cc,850,333
+P2196,Brake Shoe Set,Braking,100cc,380,37
+P2197,Piston Kit,Engine,100cc,1350,287
+P2198,Clutch Plate Set,Engine,125cc,2200,104
+P2199,Drive Chain,Drivetrain,100cc,600,459
+P2200,Brake Shoe Set,Braking,100cc,380,278
