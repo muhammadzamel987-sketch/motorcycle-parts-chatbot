@@ -405,7 +405,7 @@ def main():
     
     st.sidebar.title("⚙ Engine Dashboard")
     st.sidebar.metric(label="Total SKUs", value=len(inventory_df))
-    st.sidebar.link_button("Chat with Support", url=get_whatsapp_link("03138492584"), use_container_width=True)
+    st.sidebar.link_button("For Query", url=get_whatsapp_link("03138492584"), use_container_width=True)
     
     st.title("⚙ Motorcycle Spare Parts AI Assistant")
     tab1, tab2, tab3, tab4, tab5 = st.tabs(["💬 Chat", "📋 Inventory", "🚨 Alerts", "🔮 Restock", "🧾 Invoice"])
