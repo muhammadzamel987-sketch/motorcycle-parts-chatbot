@@ -412,7 +412,7 @@ def main():
     
     with tab1:
         # --- UPDATED: FAQ SELECTION MENU WITH DYNAMIC LOOKUP ---
-        st.subheader("💡 Frequently Asked Questions")
+        st.subheader("🤔 Not sure what to ask? Use the menu below to find 💰 prices, 📦 stock, or 🛠️ compatibility info.")
         selected_faq = st.selectbox(
             "Quick Select a Question:",
             options=[item['question'] for item in faq_dataset],
