@@ -411,9 +411,28 @@ def main():
     tab1, tab2, tab3, tab4, tab5 = st.tabs(["💬 Chat", "📋 Inventory", "🚨 Alerts", "🔮 Restock", "🧾 Invoice"])
     
     with tab1:
+        # --- UPDATED: FAQ SELECTION MENU WITH DYNAMIC LOOKUP ---
+        st.subheader("💡 Frequently Asked Questions")
+        selected_faq = st.selectbox(
+            "Quick Select a Question:",
+            options=[item['question'] for item in faq_dataset],
+            index=None,
+            placeholder="Search for a topic..."
+        )
+
+        if selected_faq:
+            # We call the same function that your chat_input uses
+            # This ensures it hits the inventory lookup logic
+            response = find_best_faq_match(selected_faq, faq_dataset, idf_matrix, inventory_df)
+            st.info(f"**Answer:** {response}")
+        
+        st.divider() # Adds a clean visual break
+        # ---------------------------------
+
         if "chat_history" not in st.session_state: st.session_state.chat_history = []
         for msg in st.session_state.chat_history:
             with st.chat_message(msg["role"]): st.markdown(msg["content"])
+        
         if prompt := st.chat_input("Ask about parts..."):
             st.session_state.chat_history.append({"role": "user", "content": prompt})
             response = find_best_faq_match(prompt, faq_dataset, idf_matrix, inventory_df)
