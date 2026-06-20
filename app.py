@@ -238,7 +238,7 @@ def find_best_faq_match(user_query, faq_dataset, idf_matrix, inventory_df):
         live_qty = best_db_match['Stock Quantity']
         
         if intent_type == "price":
-            base_reply = f"The live system price for **{live_name}** is **Rs. {live_price:,}**. We offer premium OEM and verified aftermarket options."
+            base_reply = f"The live system price for **{live_name}** is **Rs. {live_price:,}**."
         elif intent_type in ["stock", "availability"]:
             if live_qty > 0:
                 base_reply = f"Yes, **{live_name}** is in stock! We currently have **{live_qty} units** ready for immediate dispatch at **Rs. {live_price:,} per unit**."
